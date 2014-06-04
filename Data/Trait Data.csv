@@ -1,0 +1,509 @@
+Genus,Species,Sp.Code,Storage,Unique.Individual.No,LocationTimeCode,Head.Length,Head.Width,Scape.Length,Eye.Width,Eye.Length,Interocular,Mandible.Length,Clypeus.Length,Pronotum.Width,Pronotum.Length,Webers.Length,Hind.Femur,Hind.Tibia,Pilosity,Alitrunk.Spines,Petiolar.Spines,Sculpturing,Head.Colour,Mesosoma.Colour,Gaster.Colour,Notes
+Camponotus,1,4,Pinned,TBISH-001,1d-Sep-2009,1.32,1.24,1.32,0.24,0.3,0.88,0.7,0.44,0.9,0.72,1.8,1.44,1.56,25,0,0,1,1,1,1,None
+Camponotus,1,4,Pinned,TBISH-002,1c-Sep-2009,1.32,1.12,1.36,0.22,0.38,0.82,0.68,0.42,0.92,0.8,1.8,1.44,1.48,21,0,0,1,1,1,24,Gaster slightly more brown
+Camponotus,1,4,Pinned,TBISH-003,1c-Sep-2009,1.52,1.26,1.4,0.26,0.32,1,0.6,0.42,1,0.8,2,1.6,1.7,38,0,0,1,1,1,1,None
+Camponotus,1,4,Pinned,TBISH-004,1c-Sep-2009,1.42,1.26,1.4,0.26,0.3,0.96,0.78,0.42,0.98,0.7,1.96,1.5,1.6,26,0,0,1,1,1,1,None
+Camponotus,1,4,Pinned,TBISH-005,2d-Sep-2009,1.30,1.14,1.3,0.26,0.28,0.88,0.6,0.28,0.86,0.74,1.82,1.46,1.42,27,0,0,1,1,1,1,None
+Camponotus,1,4,Pinned,TBISH-006,2d-Sep-2009,1.20,1.08,1.16,0.22,0.3,0.8,0.6,0.28,0.8,0.72,1.76,1.3,1.4,29,0,0,1,1,1,1,None
+Camponotus,3,5,Pinned,TBISH-007,Drakensberg-Unknown-Unknown,2.02,1.34,2.52,0.4,0.48,0.84,0.82,0.42,1.12,1.18,3.153846154,2.82,2.85,8,0,0,1,15,15,15,Bright yellow colour
+Camponotus,3,5,Pinned,TBISH-008,Drakensberg-Unknown-2005,2.04,1.36,2.73,0.38,0.46,0.84,0.96,0.648,1.14,1.26,3.307692308,2.884615385,2.923076923,9,0,0,1,15,15,15,Bright yellow colour
+Camponotus,3,5,Wet,TBISH-009,4b-Jan-2009,2.02,1.42,2.58,0.38,0.46,0.9,0.96,0.624,1.3,1.24,3.230769231,2.961538462,3.230769231,7,0,0,1,15,15,15,Bright yellow colour
+Camponotus,3,5,Wet,TBISH-010,4b-Jan-2009,2.30,1.56,2.85,0.36,0.54,0.96,0.92,0.672,1.3,1.4,3.435483871,3.076923077,2.5,7,0,0,1,15,15,15,Bright yellow colour
+Camponotus,3,5,Wet,TBISH-011,4b-Jan-2009,1.78,1.488,2.67,0.4,0.5,0.984,0.98,0.768,1.3,1.3,3.532258065,3.230769231,3.153846154,6,0,0,1,15,15,15,Bright yellow colour
+Camponotus,3,5,Wet,TBISH-012,4b-Jan-2009,2.02,1.224,1.92,0.38,0.46,0.768,0.92,0.552,1.24,1.24,3.193548387,3.192307692,2.653846154,4,0,0,1,15,15,15,Bright yellow colour
+Camponotus,1,4,Pinned,TBISH-013,3c-Jan-2010,1.48,1.24,1.4,0.28,0.32,0.88,0.62,0.3,0.94,0.72,1.992,1.56,1.536,12,0,0,1,1,1,1,Originally Camponotus 6
+Camponotus,1,4,Pinned,TBISH-014,5c-Jan-2009,1.22,1,1.16,0.26,0.3,0.8,0.46,0.36,0.88,0.58,1.62,1.12,1.18,7,0,0,1,1,1,1,Originally Camponotus 6
+Camponotus,1,4,Pinned,TBISH-015,1d-Sep-2009,1.42,1.22,1.38,0.24,0.32,0.86,0.56,0.42,0.92,0.74,2.016,1.68,1.48,3,0,0,1,1,1,1,Originally Camponotus 6
+Camponotus,1,4,Pinned,TBISH-016,1a-Sep-2009,1.20,1.02,1.14,0.18,0.28,0.78,0.5,0.28,0.78,0.64,1.72,1.3,1.2,12,0,0,1,1,1,1,Originally Camponotus 6
+Camponotus,1,4,Pinned,TBISH-017,2c-Sep-2009,1.06,0.92,0.96,0.2,0.22,0.68,0.42,0.24,0.7,0.56,1.4,1.04,1.18,19,0,0,1,1,1,1,Originally Camponotus 6
+Camponotus,1,4,Pinned,TBISH-018,2c-Sep-2009,1.44,1.3,1.38,0.26,0.3,1.02,0.66,0.36,1,0.86,2,1.66,1.62,21,0,0,1,1,1,1,Originally Camponotus 6
+Camponotus,8,7,Pinned,TBISH-019,Drakensberg-Unknown-2005,1.28,1.02,1.52,0.28,0.34,0.66,0.58,0.32,0.8,0.66,1.96,1.62,1.64,11,0,0,1,20,17,17,Darker head. Body yellow but darker than Camponotus sp. 3.
+Camponotus,8,7,Pinned,TBISH-020,4c-Jan-2009,1.20,0.94,1.48,0.3,0.34,0.6,0.56,0.36,0.78,0.62,1.88,1.62,1.36,8,0,0,1,20,17,17,Darker head. Body yellow but darker than Camponotus sp. 3.
+Camponotus,8,7,Pinned,TBISH-021,4a-Jan-2009,1.20,0.98,1.34,0.28,0.34,0.64,0.54,0.36,0.64,0.78,1.5,1.5,1.68,7,0,0,1,20,17,17,Darker head. Body yellow but darker than Camponotus sp. 3.
+Camponotus,8,7,Pinned,TBISH-022,4a-Jan-2009,1.22,0.98,1.4,0.28,0.38,0.64,0.54,0.4,0.8,0.68,1.98,1.56,1.62,5,0,0,1,20,17,17,Darker head. Body yellow but darker than Camponotus sp. 3.
+Camponotus,8,7,Pinned,TBISH-023,4d-Jan-2010,1.18,0.84,1.5,0.3,0.38,0.66,0.62,0.42,0.64,0.7,1.98,1.68,1.64,9,0,0,1,20,17,17,Darker head. Body yellow but darker than Camponotus sp. 3.
+Camponotus,8,7,Pinned,TBISH-024,4a-Jan-2010,1.08,1,1.52,0.32,0.36,0.7,0.64,0.42,0.82,0.68,1.9,1.66,1.62,8,0,0,1,20,17,17,Darker head. Body yellow but darker than Camponotus sp. 3.
+Camponotus,un01,8,Pinned,TBISH-025,4c-Jan-2009,1.52,1.3,1.54,0.32,0.38,0.9,0.74,0.48,0.96,0.84,2.136,1.68,1.584,9,0,0,1,22,9,22,Reddy brown colour. Mesosoma lighter than head and gaster.
+Camponotus,un01,8,Pinned,TBISH-026,4b-Jan-2009,1.34,1.1,1.4,0.3,0.38,0.74,0.7,0.42,0.84,0.68,2.016,1.536,1.56,5,0,0,1,22,21,21,Colour not as dimorphic as in TBISH-025.
+Camponotus,un01,8,Pinned,TBISH-027,4b-Jan-2009,1.34,1.18,1.42,0.3,0.38,0.84,0.74,0.48,0.92,0.84,2.16,1.9,1.8,6,0,0,1,22,22,22,Darker colour than TBISH-026.
+Camponotus,un01,8,Pinned,TBISH-028,4c-Jan-2009,1.40,1.26,1.6,0.3,0.38,0.88,0.76,0.54,0.92,0.78,2.088,1.776,1.704,6,0,0,1,22,9,22,None
+Camponotus,un01,8,Pinned,TBISH-029,4a-Jan-2009,1.54,1.24,1.76,0.28,0.36,0.84,0.7,0.38,0.92,0.9,2.232,2.184,2.136,9,0,0,1,22,22,22,None
+Camponotus,un01,8,Pinned,TBISH-030,5c-Jan-2009,1.34,1.16,1.42,0.26,0.38,0.8,0.64,0.4,0.9,0.66,1.92,1.464,1.56,7,0,0,1,22,21,22,None
+Camponotus,un10,9,Pinned,TBISH-031,3a-Jan-2012,1.02,0.98,1.06,0.22,0.26,0.66,0.48,0.36,0.74,0.54,1.44,1.08,1.08,13,0,0,1,1,1,1,None
+Camponotus,un10,9,Pinned,TBISH-032,Drakensberg-Unknown-2005,1.12,0.94,1.1,0.2,0.28,0.7,0.4,0.28,0.8,0.58,1.48,1.1,1.14,15,0,0,1,1,1,1,None
+Camponotus,un10,9,Pinned,TBISH-033,Drakensberg-Unknown-2005,0.98,0.84,1,0.22,0.26,0.6,0.44,0.14,0.7,0.52,1.44,1.04,0.94,14,0,0,1,1,1,1,None
+Camponotus,un10,9,Pinned,TBISH-034,Drakensberg-Unknown-2005,0.92,0.78,0.96,0.2,0.28,0.54,0.34,0.2,0.42,0.62,1.22,0.88,0.88,6,0,0,1,1,1,1,None
+Camponotus,un10,9,Wet,TBISH-035,2b-Jan-2009,0.98,0.9,0.92,0.24,0.28,0.64,0.5,0.38,0.74,0.74,1.46,1.1,1.04,11,0,0,1,1,1,1,None
+Camponotus,un10,9,Wet,TBISH-036,2b-Jan-2009,0.98,0.92,1.06,0.22,0.28,0.64,0.5,0.32,0.74,0.48,1.26,1.2,1,17,0,0,1,1,1,1,None
+Camponotus,havilandi,10,Pinned,TBISH-037,7d-Jan-2009,1.02,0.92,1.44,0.3,0.34,0.6,0.56,0.38,0.66,0.68,1.86,1.54,1.64,6,0,0,1,22,16,16,None
+Camponotus,havilandi,10,Pinned,TBISH-038,6b-Jan-2009,1.26,1.02,1.54,0.28,0.38,0.68,0.56,0.36,0.8,0.7,1.3,1.8,1.72,9,0,0,1,22,16,16,None
+Camponotus,havilandi,10,Pinned,TBISH-039,4b-Jan-2009,1.54,1.28,1.56,0.3,0.38,0.88,0.68,0.52,1.04,0.8,2.112,1.8,1.7,8,0,0,1,22,16,16,None
+Camponotus,havilandi,10,Pinned,TBISH-040,4c-Jan-2009,1.40,1.1,1.54,0.3,0.36,0.74,0.5,0.34,0.84,0.74,1.992,1.64,1.68,10,0,0,1,22,16,16,None
+Camponotus,havilandi,10,Pinned,TBISH-041,Drakensberg-Unknown-Unknown,1.70,1.3,1.58,0.32,0.38,0.92,0.82,0.42,0.98,0.82,2.208,1.54,1.78,9,0,0,1,22,16,16,None
+Camponotus,havilandi,10,Pinned,TBISH-042,Drakensberg-Unknown-2005,1.18,1.1,1.28,0.3,0.34,0.76,0.66,0.4,0.86,0.64,1.88,1.48,1.4,1,0,0,1,22,16,22,None
+Camponotus,irredux,11,Pinned,TBISH-043,3a-Jan-2012,1.20,1.06,1.42,0.22,0.34,0.74,0.62,0.42,0.9,0.64,1.98,1.58,1.62,43,0,0,1,2,2,1,"Thick white hairs on mesosoma, petiole and gaster. "
+Camponotus,irredux,11,Pinned,TBISH-044,2a-Jan-2009,1.14,0.98,1.26,0.22,0.34,0.66,0.58,0.34,0.78,0.64,1.74,1.3,1.36,8,0,0,1,2,2,12,"Thick white hairs on mesosoma, petiole and gaster. "
+Camponotus,irredux,11,Pinned,TBISH-045,2a-Jan-2009,1.36,1.18,1.44,0.28,0.4,0.8,0.6,0.36,0.88,0.68,1.86,1.58,1.56,30,0,0,1,2,2,2,"Thick white hairs on mesosoma, petiole and gaster. "
+Camponotus,irredux,11,Pinned,TBISH-046,2a-Jan-2009,1.36,1.16,1.48,0.28,0.38,0.8,0.6,0.34,0.92,0.74,1.92,1.66,1.5,33,0,0,1,2,2,2,"Thick white hairs on mesosoma, petiole and gaster. "
+Camponotus,irredux,11,Pinned,TBISH-047,2a-Jan-2009,1.88,1.7,1.62,0.3,0.46,1.18,0.82,0.48,0.96,0.84,2.256,1.95,1.77,47,0,0,1,2,2,1,"Thick white hairs on mesosoma, petiole and gaster. "
+Camponotus,irredux,11,Pinned,TBISH-048,2a-Jan-2009,1.28,1.12,1.34,0.24,0.34,0.78,0.74,0.48,0.9,0.66,1.92,1.58,1.6,20,0,0,1,2,2,2,"Thick white hairs on mesosoma, petiole and gaster. "
+Camponotus,vestitus,12,Pinned,TBISH-049,8b-Jan-2007,1.40,1.04,1.7,0.26,0.34,0.74,0.68,0.42,0.9,0.82,1.74,1.776,2,8,0,0,1,17,17,22,None
+Leptogenys,intermedia,35,Pinned,TBISH-050,4d-Jan-2009,1.20,0.84,1.08,0.12,0.16,0.66,0.62,0.2,0.66,0.66,1.84,1.3,1.08,43,0,0,1,1,1,1,Lots of hairs but thin. Shiny body. 
+Leptogenys,intermedia,35,Pinned,TBISH-051,4d-Jan-2006,1.18,0.8,1.04,0.14,0.16,0.66,0.64,0.24,0.64,0.7,1.78,1.2,1.04,35,0,0,1,1,1,1,Lots of hairs but thin. Shiny body. 
+Leptogenys,intermedia,35,Pinned,TBISH-052,4d-Jan-2006,1.20,0.86,1.14,0.14,0.18,0.68,0.64,0.36,0.66,0.76,1.78,1.38,1.08,63,0,0,1,1,1,1,Lots of hairs but thin. Shiny body. 
+Leptogenys,intermedia,35,Pinned,TBISH-053,4d-Jan-2006,1.16,0.82,1.08,0.16,0.16,0.66,0.66,0.26,0.64,0.72,1.76,1.2,1.06,55,0,0,1,1,1,1,Lots of hairs but thin. Shiny body. 
+Leptogenys,intermedia,35,Wet,TBISH-054,4d-Jan-2009,1.20,0.84,1.06,0.16,0.18,0.6,0.56,0.26,0.66,0.54,1.78,1.12,1.08,40,0,0,1,1,1,1,Lots of hairs but thin. Shiny body. 
+Leptogenys,intermedia,35,Wet,TBISH-055,4d-Jan-2009,1.08,0.84,1.12,0.16,0.18,0.68,0.64,0.2,0.64,0.62,1.84,1.22,1.16,68,0,0,1,1,1,1,Lots of hairs but thin. Shiny body. 
+Camponotus,vestitus,12,Pinned,TBISH-056,Drakensberg-Unknown-Unknown,1.54,1.22,1.6,0.26,0.36,0.82,0.72,0.46,0.98,0.86,2.232,1.8,1.776,6,0,0,1,17,17,22,None
+Streblognathus,peetersi,69,Pinned,TBISH-057,5b-Jan-2007,3.77,3.725806452,3.290322581,0.580645161,0.677419355,2.516129032,2.564516129,1.016129032,2.346153846,1.961538462,5.939393939,4.424242424,3.636363636,8,2,0,1,1,1,1,"Largely black, sometime blue tinges, with yellow hairs and black hairs."
+Streblognathus,peetersi,69,Pinned,TBISH-058,Drakensberg-Unknown-2005,3.77,3.725806452,3.290322581,0.54,0.66,2.612903226,2.612903226,0.822580645,2.484848485,1.939393939,5.393939394,4.363636364,3.636363636,12,2,0,1,1,1,1,"Largely black, sometime blue tinges, with yellow hairs and black hairs."
+Streblognathus,peetersi,69,Pinned,TBISH-059,4d-Jan-2006,3.77,3.774193548,3.483870968,0.39,0.69,2.564516129,2.7,0.919354839,2.46,1.95,5.393939394,4.363636364,3.696969697,9,2,0,1,1,12,1,"Largely black, sometime blue tinges, with yellow hairs and black hairs."
+Streblognathus,peetersi,69,Pinned,TBISH-060,2a-Jan-2008,3.48,3.822580645,3.290322581,0.6,0.7,2.370967742,2.4,0.919354839,2.177419355,1.64516129,5.636363636,4.727272727,4.060606061,9,2,0,1,1,12,1,"Largely black, sometime blue tinges, with yellow hairs and black hairs."
+Streblognathus,peetersi,69,Pinned,TBISH-061,2a-Jan-2008,3.63,3.435483871,3.096774194,0.532258065,0.677419355,2.419354839,2.96969697,0.919354839,2.274193548,2.032258065,5.212121212,4.181818182,3.696969697,21,2,0,1,1,12,1,"Largely black, sometime blue tinges, with yellow hairs and black hairs."
+Streblognathus,peetersi,69,Wet,TBISH-062,4a-Jan-2011,3.92,3.870967742,3.580645161,0.629032258,0.725806452,2.322580645,2.758064516,1.016129032,2.516129032,2.177419355,5.939393939,4.545454545,4,17,2,0,1,1,12,1,"Largely black, sometime blue tinges, with yellow hairs and black hairs."
+Crematogaster,natalensis,20,Pinned,TBISH-063,6b-Jan-2010,0.54,0.56,0.36,0.08,0.12,0.46,0.3,0.2,0.36,0.42,0.6,0.42,0.26,18,2,0,2,20,19,20,None
+Crematogaster,natalensis,20,Pinned,TBISH-064,2b-Jan-2010,0.52,0.54,0.4,0.1,0.1,0.44,0.28,0.16,0.32,0.28,0.54,0.4,0.36,6,2,0,2,20,19,19,None
+Crematogaster,natalensis,20,Pinned,TBISH-065,5c-Jan-2009,0.54,0.54,0.4,0.1,0.12,0.46,0.28,0.18,0.34,0.4,0.6,0.36,0.36,7,2,0,2,20,19,19,None
+Crematogaster,natalensis,20,Pinned,TBISH-066,7d-Jan-2010,0.46,0.48,0.36,0.08,0.12,0.4,0.28,0.14,0.3,0.38,0.5,0.4,0.28,7,2,0,2,20,19,19,None
+Crematogaster,natalensis,20,Pinned,TBISH-067,5b-Jan-2006,0.52,0.5,0.24,0.1,0.12,0.42,0.26,0.14,0.28,0.34,0.56,0.42,0.38,8,2,0,2,20,19,19,None
+Crematogaster,natalensis,20,Wet,TBISH-068,5c-Jan-2009,0.64,0.68,0.46,0.1,0.12,0.58,0.38,0.2,0.38,0.46,0.64,0.56,0.5,7,2,0,2,20,19,19,None
+Plectroctena,mandibularis,64,Pinned,TBISH-069,Drakensberg-Unknown-Unknown,2.85,2.82,2.37,0.27,0.33,2.16,2.49,0.48,1.83,1.83,3.692307692,2.7,1.95,0,0,0,2,1,1,1,Clypeus length measured just off centre due to well developed frontal lobes.
+Plectroctena,mandibularis,64,Pinned,TBISH-070,Drakensberg-Unknown-Unknown,2.91,2.7,2.16,0.24,0.28,2.19,2.52,0.33,1.77,1.8,3.5,2.49,1.62,0,0,0,2,22,22,22,"Browner than TBISH-069, is this the same species? Clypeus length from off centre. "
+Plectroctena,mandibularis,64,Wet,TBISH-071,5a-Jan-2010,3.00,2.730769231,1.961538462,0.307692308,0.346153846,2.153846154,2.384615385,0.346153846,1.846153846,1.653846154,3.677419355,2.612903226,1.983870968,0,0,0,2,1,1,1,Clypeus length measured just off centre due to well developed frontal lobes.
+Plectroctena,mandibularis,64,Wet,TBISH-072,4c-Jan-2011,2.46,2.461538462,2.038461538,0.346153846,0.346153846,2,2.076923077,0.346153846,1.692307692,1.884615385,3.532258065,2.177419355,1.790322581,0,0,0,2,1,1,1,Clypeus length measured just off centre due to well developed frontal lobes.
+Plectroctena,mandibularis,64,Wet,TBISH-073,6c-Jan-2009,3.15,3.038461538,2.269230769,0.307692308,0.384615385,2.384615385,2.461538462,0.423076923,1.923076923,1.923076923,3.725806452,2.806451613,2.080645161,0,0,0,2,1,1,1,Clypeus length measured just off centre due to well developed frontal lobes.
+Crematogaster,un04,19,Pinned,TBISH-074,8d-Sep-2011,0.86,0.86,0.7,0.14,0.2,0.72,0.46,0.2,1.923076923,0.34,0.9,0.78,0.7,26,2,0,2,21,21,22,None
+Crematogaster,un04,19,Pinned,TBISH-075,5c-Jan-2009,0.82,0.88,0.58,0.14,0.18,0.68,0.58,0.24,0.54,0.46,0.78,0.72,0.7,0,2,0,2,22,21,22,None
+Crematogaster,un04,19,Pinned,TBISH-076,5c-Sep-2006,0.74,0.82,0.6,0.12,0.14,0.68,0.4,0.22,0.42,0.34,0.86,0.68,0.6,0,2,0,2,22,22,21,None
+Crematogaster,un04,19,Pinned,TBISH-077,5c-Sep-2006,0.74,0.78,0.64,0.12,0.18,0.68,0.34,0.18,0.38,0.42,0.8,0.62,0.54,0,2,0,2,22,22,21,None
+Crematogaster,un04,19,Wet,TBISH-078,8d-Sep-2011,0.94,1.04,0.68,0.18,0.22,0.82,0.4,0.28,0.58,0.4,1.12,0.86,0.72,4,2,0,2,22,22,22,None
+Crematogaster,un04,19,Wet,TBISH-079,8d-Sep-2011,0.88,1,0.72,0.14,0.22,0.86,0.42,0.22,0.5,0.32,0.96,0.76,0.66,6,2,0,2,22,22,22,None
+Crematogaster,un03,18,Pinned,TBISH-080,8c-Sep-2006,0.68,0.68,0.46,0.12,0.16,0.56,0.3,0.16,0.42,0.26,0.8,0.58,0.5,10,2,0,2,15,15,15,None
+Crematogaster,un03,18,Pinned,TBISH-081,7b-Jan-2010,0.54,0.52,0.38,0.08,0.1,0.44,0.32,0.16,0.3,0.22,0.5,0.4,0.34,10,2,0,2,20,20,19,Darker and smaller than TBISH-080. Is is the same?
+Crematogaster,un03,18,Pinned,TBISH-082,6d-Jan-2010,0.52,0.6,0.44,0.12,0.14,0.52,0.32,0.22,0.32,0.22,0.62,0.42,0.42,14,2,0,2,15,15,15,None
+Crematogaster,un03,18,Pinned,TBISH-083,8d-Sep-2011,0.60,0.64,0.42,0.1,0.12,0.5,0.28,0.16,0.36,0.3,0.68,0.52,0.44,4,2,0,2,15,15,15,None
+Crematogaster,un03,18,Wet,TBISH-084,7b-Jan-2010,0.54,0.54,0.36,0.1,0.12,0.46,0.32,0.16,0.32,0.18,0.68,0.42,0.42,3,2,0,2,20,20,20,Darker than others.
+Crematogaster,un03,18,Wet,TBISH-085,7b-Jan-2010,0.54,0.5,0.4,0.08,0.1,0.4,0.28,0.14,0.3,0.24,0.48,0.4,0.28,2,2,0,2,20,20,20,None
+Crematogaster,un02,17,Pinned,TBISH-086,Drakensberg-Unknown-Unknown,0.82,0.98,0.76,0.14,0.24,0.78,0.42,0.18,0.54,0.28,1.04,0.88,0.68,0,2,0,2,21,21,21,Ventral surfaces and halfway up sides appear lighter in colour. 
+Crematogaster,un02,17,Pinned,TBISH-087,Drakensberg-Unknown-2005,0.88,1.1,0.82,0.14,0.28,0.94,0.48,0.28,0.38,0.26,1.2,0.66,0.58,0,2,0,2,21,21,21,Ventral surfaces and halfway up sides appear lighter in colour. 
+Crematogaster,un02,17,Pinned,TBISH-088,6b-Jan-2010,0.80,1.06,0.84,0.16,0.22,0.88,0.46,0.24,0.48,0.38,1.14,0.94,0.7,0,2,0,2,21,21,21,Ventral surfaces and halfway up sides appear lighter in colour. 
+Crematogaster,un02,17,Pinned,TBISH-089,5b-Jan-2009,0.64,0.9,0.76,0.16,0.2,0.7,0.38,0.22,0.46,0.56,0.88,0.68,0.6,0,2,0,2,21,19,19,Ventral surfaces and halfway up sides appear lighter in colour. 
+Crematogaster,un02,17,Wet,TBISH-090,5b-Jan-2009,0.74,0.88,0.64,0.144,0.192,0.7,0.36,0.18,0.48,0.44,1.12,0.96,0.68,0,2,0,2,21,21,21,Darker than others.
+Crematogaster,un02,17,Wet,TBISH-091,5b-Jan-2009,0.76,0.92,0.82,0.14,0.2,0.74,0.44,0.22,0.4,0.38,0.92,0.8,0.64,0,2,0,2,21,19,19,None
+Crematogaster,6,16,Pinned,TBISH-092,5b-Jan-2006,0.92,1.06,0.72,0.14,0.22,0.88,0.52,0.28,0.56,0.42,1.08,0.9,0.84,17,2,0,2,22,22,22,None
+Crematogaster,6,16,Pinned,TBISH-093,5b-Jan-2006,1.16,1.08,0.8,0.16,0.24,0.88,0.46,0.24,0.52,0.46,1.12,0.92,0.78,10,2,0,2,22,22,22,None
+Crematogaster,6,16,Pinned,TBISH-094,5b-Jan-2006,0.88,1,0.84,0.14,0.22,0.84,0.34,0.2,0.56,0.48,1.02,0.84,0.78,15,2,0,2,22,22,22,None
+Crematogaster,6,16,Wet,TBISH-095,1a-Sep-2010,1.06,1.2,0.82,0.14,0.26,1.02,0.52,0.3,0.62,0.5,1.34,1.06,0.82,13,2,0,2,22,22,22,None
+Crematogaster,6,16,Wet,TBISH-096,1a-Sep-2010,1.18,1.3,0.96,0.22,0.26,1.06,0.58,0.36,0.68,0.52,1.46,1.12,1,22,2,0,2,22,22,22,None
+Crematogaster,6,16,Wet,TBISH-097,1a-Sep-2010,0.96,1.08,0.92,0.18,0.2,0.96,0.5,0.28,0.64,0.5,1.12,0.88,0.8,9,2,0,2,22,22,22,None
+Pristomyrmex,fossulatus,65,Pinned,TBISH-098,7c-Jan-2006,0.58,0.68,0.52,0.12,0.16,0.42,0.36,0.2,0.4,0.3,0.62,0.58,0.4,1,2,0,2,20,17,17,None
+Pristomyrmex,fossulatus,65,Pinned,TBISH-099,5c-Jan-2009,0.62,0.74,0.5,0.1,0.14,0.6,0.34,0.2,0.44,0.26,0.66,0.64,0.44,1,2,0,2,20,19,19,None
+Pristomyrmex,fossulatus,65,Pinned,TBISH-100,5b-Jan-2010,0.62,0.78,0.6,0.12,0.18,0.6,0.36,0.22,0.48,0.14,0.74,0.62,0.48,1,2,0,2,20,20,19,None
+Pristomyrmex,fossulatus,65,Pinned,TBISH-101,7a-Jan-2006,0.66,0.74,0.52,0.14,0.18,0.58,0.38,0.2,0.44,0.26,0.66,0.6,0.38,1,2,0,2,20,19,20,None
+Pristomyrmex,fossulatus,65,Pinned,TBISH-102,7a-Jan-2006,0.60,0.72,0.52,0.12,0.16,0.58,0.34,0.24,0.5,0.2,0.68,0.64,0.46,1,2,0,2,20,16,17,None
+Pristomyrmex,fossulatus,65,Pinned,TBISH-103,7a-Jan-2006,0.62,0.72,0.56,0.12,0.18,0.54,0.36,0.22,0.48,0.24,0.58,0.64,0.44,0,2,0,2,19,16,19,None
+Myrmicaria,1,48,Pinned,TBISH-104,Drakensberg-Unknown-Unknown,1.18,1.24,1.12,0.16,0.26,1.06,0.64,0.4,0.74,0.48,1.38,1.48,1.18,48,2,0,2,22,17,17,None
+Myrmicaria,1,48,Wet,TBISH-105,3c-Jan-2009,1.04,1.2,1.1,0.14,0.28,0.94,0.64,0.34,0.66,0.6,1.36,1.28,1.08,50,2,0,2,22,21,21,None
+Myrmicaria,1,48,Wet,TBISH-106,3c-Jan-2009,1.00,1.14,0.98,0.14,0.22,0.86,0.6,0.34,0.62,0.54,1.28,1.14,1.08,40,2,0,2,22,17,17,None
+Myrmicaria,1,48,Wet,TBISH-107,3c-Jan-2009,1.10,1.08,1.04,0.14,0.18,0.88,0.6,0.24,0.6,0.4,1.24,1.16,0.92,50,2,0,2,22,17,17,None
+Myrmicaria,1,48,Wet,TBISH-108,3c-Jan-2009,0.94,1,0.9,0.14,0.2,0.74,0.6,0.34,0.56,0.44,1.18,0.86,0.68,37,2,0,2,22,17,17,None
+Myrmicaria,1,48,Wet,TBISH-109,3c-Jan-2009,1.16,1.22,1.02,0.16,0.24,1.02,0.7,0.2,0.72,0.6,1.44,1.28,1.08,36,2,0,2,22,17,17,None
+Pyramica,un01,66,Pinned,TBISH-110,Drakensberg-Unknown-Unknown,0.66,0.32,0.3,0.06,0.1,0.3,0.14,0.16,0.28,0.36,0.6,0.48,0.38,12,2,0,2,16,16,16,None
+Pyramica,un01,66,Pinned,TBISH-111,1a-Jan-2006,0.72,0.34,0.32,0.06,0.08,0.32,0.2,0.14,0.36,0.34,0.7,0.44,0.38,4,2,0,2,16,16,16,None
+Pyramica,un01,66,Wet,TBISH-112,7b-Jan-2009,0.60,0.3,0.34,0.04,0.08,0.28,0.22,0.14,0.28,0.3,0.68,0.54,0.38,14,2,0,2,16,16,16,None
+Pyramica,un01,66,Wet,TBISH-113,7b-Jan-2009,0.50,0.28,0.24,0.04,0.06,0.26,0.18,0.12,0.22,0.2,0.672,0.456,0.384,24,2,0,2,16,16,16,None
+Pyramica,un01,66,Wet,TBISH-114,7b-Jan-2009,0.62,0.32,0.3,0.06,0.08,0.3,0.2,0.18,0.26,0.32,0.68,0.5,0.4,14,2,0,2,16,16,16,None
+Pyramica,un01,66,Wet,TBISH-115,7b-Jan-2009,0.62,0.3,0.26,0.06,0.08,0.28,0.2,0.18,0.36,0.3,0.62,0.42,0.38,11,2,0,2,16,16,16,None
+Hypoponera,1,22,Pinned,TBISH-116,Drakensberg-Unknown-Unknown,0.64,0.64,0.5,0.02,0.02,0.64,0.42,0.1,0.46,0.42,1,0.54,0.54,49,0,0,1,22,20,20,None
+Hypoponera,1,22,Pinned,TBISH-117,6b-Jan-2006,0.50,0.46,0.28,0.02,0.02,0.46,0.28,0.1,0.28,0.34,0.44,0.38,0.18,60,0,0,1,22,20,20,None
+Hypoponera,1,22,Pinned,TBISH-118,6b-Jan-2006,0.54,0.46,0.34,0.02,0.02,0.46,0.24,0.08,0.34,0.32,0.7,0.28,0.16,43,0,0,1,22,20,20,None
+Hypoponera,1,22,Wet,TBISH-119,2d-Sep-2009,0.70,0.72,0.56,0.02,0.02,0.72,0.38,0.14,0.4,0.44,1.04,0.58,0.42,54,0,0,1,20,20,20,None
+Hypoponera,1,22,Wet,TBISH-120,2d-Sep-2009,0.78,0.68,0.5,0.02,0.02,0.68,0.34,0.12,0.48,0.5,1.12,0.54,0.5,65,0,0,1,16,16,16,None
+Hypoponera,1,22,Wet,TBISH-121,2d-Sep-2009,0.74,0.68,0.5,0.02,0.02,0.68,0.42,0.16,0.46,0.4,1.08,0.6,0.48,52,0,0,1,16,16,16,None
+Dorylus,un01,21,Pinned,TBISH-122,6c-Sep-2006,0.96,0.84,0.4,0,0,0,0.4,0.04,0.5,0.66,1.12,0.72,0.68,5,0,0,2,17,17,17,None
+Dorylus,un01,21,Pinned,TBISH-123,6c-Sep-2006,1.06,0.96,0.48,0,0,0,0.54,0.08,0.5,0.6,1.34,0.78,0.82,7,0,0,2,17,17,17,None
+Dorylus,un01,21,Wet,TBISH-124,7a-Jan-2011,1.12,1.04,0.54,0,0,0,0.64,0.08,0.6,0.6,1.36,0.88,0.9,5,0,0,2,17,17,17,None
+Dorylus,un01,21,Wet,TBISH-125,7a-Jan-2011,1.00,0.88,0.44,0,0,0,0.52,0.1,0.52,0.5,1.16,0.8,0.8,0,0,0,2,17,17,17,None
+Dorylus,un01,21,Wet,TBISH-126,7a-Jan-2011,1.20,1.1,0.56,0,0,0,0.7,0.1,0.66,0.8,1.44,0.88,0.92,0,0,0,2,20,20,20,None
+Dorylus,un01,21,Wet,TBISH-127,7a-Jan-2011,0.98,0.88,0.42,0,0,0,0.66,0.08,0.54,0.66,1.12,0.72,0.98,0,0,0,2,21,20,20,None
+Messor,1,38,Pinned,TBISH-128,Drakensberg-Unknown-Unknown,1.50,1.6,1.56,0.24,0.32,1.34,1.08,0.3,1,1.2,2.208,2.112,1.62,32,0,0,2,20,20,22,None
+Messor,1,38,Pinned,TBISH-129,Drakensberg-Unknown-2005,1.76,1.94,1.8,0.28,0.34,1.64,1,0.34,1.14,0.88,2.46,2.232,1.88,23,0,0,2,22,20,22,None
+Messor,1,38,Wet,TBISH-130,4a-Jan-2010,1.84,1.84,1.84,0.28,0.32,1.52,1.1,0.42,1,0.6,2.37,2.31,1.77,32,0,0,2,10,22,22,None
+Messor,1,38,Wet,TBISH-131,4a-Jan-2010,1.44,1.66,1.6,0.24,0.26,1.38,0.96,0.38,0.96,0.96,2.04,2.04,1.74,25,0,0,2,10,22,22,None
+Messor,1,38,Wet,TBISH-132,4a-Jan-2010,1.88,1.968,1.896,0.3,0.34,1.8,1.14,0.62,1.14,1.1,2.7,2.46,1.92,34,0,0,2,10,22,22,None
+Messor,1,38,Wet,TBISH-133,4a-Jan-2010,1.72,1.8,1.8,0.28,0.34,1.5,1.22,0.42,1.02,0.72,2.37,2.25,1.71,36,0,0,2,10,22,22,None
+Carebara,1,13,Pinned,TBISH-134,6d-Jan-2006,0.36,0.3,0.26,0.02,0.02,0.3,0.2,0.07,0.2,0.26,0.34,0.24,0.18,4,0,0,1,17,15,15,None
+Carebara,1,13,Wet,TBISH-135,8d-Jan-2011,0.38,0.34,0.28,0.02,0.02,0.34,0.18,0.06,0.2,0.28,0.4,0.26,0.18,8,0,0,1,17,15,15,None
+Carebara,1,13,Wet,TBISH-136,8d-Jan-2011,0.40,0.34,0.24,0.02,0.02,0.34,0.18,0.06,0.18,0.22,0.38,0.26,0.2,8,0,0,1,17,15,15,None
+Carebara,1,13,Wet,TBISH-137,8d-Jan-2011,0.38,0.3,0.2,0.02,0.02,0.3,0.18,0.06,0.18,0.24,0.34,0.24,0.18,0,0,0,1,17,15,15,None
+Carebara,1,13,Wet,TBISH-138,8d-Jan-2011,0.38,0.3,0.22,0.02,0.02,0.3,0.18,0.04,0.2,0.2,0.38,0.24,0.2,6,0,0,1,17,15,15,None
+Carebara,1,13,Wet,TBISH-139,8d-Jan-2011,0.40,0.3,0.22,0.02,0.02,0.3,0.18,0.06,0.18,0.2,0.34,0.22,0.18,3,0,0,1,17,15,15,None
+Tetramorium,frigidum,92,Pinned,TBISH-140,4c-Jan-2010,0.82,0.86,0.58,0.14,0.16,0.68,0.46,0.24,0.56,0.56,0.82,0.74,0.56,16,4,0,2,22,21,19,None
+Tetramorium,frigidum,92,Pinned,TBISH-141,4c-Jan-2010,0.76,0.78,0.52,0.12,0.18,0.64,0.4,0.22,0.5,0.56,0.88,0.46,0.54,18,4,0,2,22,17,17,None
+Tetramorium,frigidum,92,Pinned,TBISH-142,4b-Jan-2010,0.74,0.76,0.54,0.1,0.16,0.62,0.38,0.18,0.48,0.48,0.78,0.6,0.48,16,4,0,2,22,20,17,None
+Tetramorium,frigidum,92,Pinned,TBISH-143,4a-Jan-2010,0.76,0.76,0.58,0.12,0.16,0.64,0.42,0.14,0.48,0.5,0.84,0.66,0.5,16,4,0,2,22,17,17,None
+Tetramorium,frigidum,92,Pinned,TBISH-144,3d-Sep-2009,0.76,0.76,0.56,0.12,0.16,0.6,0.4,0.18,0.48,0.5,0.8,0.62,0.5,17,4,0,2,22,17,17,None
+Tetramorium,frigidum,92,Pinned,TBISH-145,3d-Sep-2009,0.74,0.72,0.58,0.12,0.14,0.6,0.42,0.18,0.58,0.38,0.78,0.58,0.46,13,4,0,2,22,17,17,None
+Tetramorium,frenchi,91,Pinned,TBISH-146,6d-Jan-2010,0.76,0.74,0.68,0.13,0.18,0.54,0.42,0.24,0.5,0.56,1.04,0.94,0.7,21,2,0,2,22,20,20,Only 2 spines recorded as lower 2 are very small and not pointed. Perhaps a point for debate?
+Tetramorium,frenchi,91,Pinned,TBISH-147,7b-Jan-2010,0.82,0.76,0.72,0.14,0.16,0.58,0.48,0.22,0.5,0.56,1.06,0.96,0.68,20,2,0,2,22,20,20,Only 2 spines recorded as lower 2 are very small and not pointed. Perhaps a point for debate?
+Tetramorium,frenchi,91,Pinned,TBISH-148,6b-Jan-2010,0.74,0.7,0.66,0.14,0.16,0.56,0.48,0.24,0.48,0.32,1.06,0.88,0.66,19,2,0,2,20,20,22,Only 2 spines recorded as lower 2 are very small and not pointed. Perhaps a point for debate?
+Tetramorium,frenchi,91,Pinned,TBISH-149,5b-Jan-2010,0.82,0.76,0.76,0.12,0.16,0.62,0.46,0.2,0.5,0.52,1.04,0.84,0.66,14,2,0,2,22,20,20,Only 2 spines recorded as lower 2 are very small and not pointed. Perhaps a point for debate?
+Tetramorium,frenchi,91,Pinned,TBISH-150,5b-Jan-2010,0.72,0.66,0.64,0.14,0.16,0.52,0.46,0.2,0.48,0.34,0.88,0.8,0.64,19,2,0,0,20,17,22,Only 2 spines recorded as lower 2 are very small and not pointed. Perhaps a point for debate?
+Tetramorium,frenchi,91,Pinned,TBISH-151,5a-Jan-2010,0.70,0.64,0.68,0.14,0.18,0.52,0.44,0.2,0.48,0.48,1,0.8,0.64,13,2,0,0,21,17,17,Only 2 spines recorded as lower 2 are very small and not pointed. Perhaps a point for debate?
+Tetramorium,un12,89,Pinned,TBISH-152,1a-Jan-2010,0.96,0.94,0.82,0.16,0.18,0.78,0.52,0.22,0.62,0.46,1.16,1,0.76,0,0,0,2,22,22,22,None
+Tetramorium,un12,89,Pinned,TBISH-153,2d-Sep-2009,0.80,0.82,0.74,0.12,0.14,0.68,0.52,0.26,0.54,0.4,1.1,0.9,0.72,0,0,0,2,22,22,22,None
+Tetramorium,un12,89,Pinned,TBISH-154,2d-Jan-2012,0.82,0.82,0.76,0.14,0.16,0.66,0.48,0.24,0.5,0.38,1.08,0.98,0.74,0,0,0,2,22,22,22,None
+Tetramorium,un12,89,Pinned,TBISH-155,2d-Jan-2012,0.88,0.84,0.78,0.14,0.16,0.7,0.5,0.24,0.54,0.44,1.02,0.98,0.74,4,0,0,2,22,22,22,None
+Tetramorium,un12,89,Pinned,TBISH-156,Drakensberg-Unknown-2005,0.82,0.84,0.7,0.14,0.18,0.68,0.48,0.22,0.54,0.36,1.08,0.9,0.74,0,0,0,2,22,22,22,None
+Tetramorium,un12,89,Pinned,TBISH-157,Drakensberg-Unknown-2005,0.80,0.84,0.78,0.14,0.18,0.7,0.54,0.28,0.54,0.36,1.14,1,0.74,0,0,0,2,22,22,22,None
+Tetramorium,bothae,90,Pinned,TBISH-158,Drakensberg-Unknown-2005,0.58,0.56,0.44,0.08,0.12,0.46,0.32,0.16,0.38,0.28,0.66,0.5,0.4,14,4,0,2,15,15,15,None
+Tetramorium,bothae,90,Pinned,TBISH-159,7b-Jan-2010,0.58,0.52,0.44,0.08,0.12,0.44,0.32,0.14,0.24,0.34,0.6,0.5,0.38,15,4,0,2,17,17,17,None
+Tetramorium,bothae,90,Wet,TBISH-160,7b-Jan-2010,0.58,0.52,0.38,0.08,0.12,0.46,0.3,0.18,0.36,0.3,0.64,0.44,0.36,14,4,0,2,17,17,17,None
+Tetramorium,bothae,90,Wet,TBISH-161,7b-Jan-2010,0.58,0.52,0.4,0.08,0.14,0.46,0.38,0.12,0.34,0.32,0.6,0.4,0.38,0,4,0,2,17,17,17,None
+Tetramorium,bothae,90,Wet,TBISH-162,7b-Jan-2010,0.56,0.5,0.4,0.1,0.12,0.42,0.38,0.14,0.32,0.34,0.58,0.4,0.34,11,4,0,2,17,17,17,None
+Tetramorium,bothae,90,Wet,TBISH-163,7b-Jan-2010,0.54,0.5,0.38,0.12,0.08,0.42,0.3,0.1,0.32,0.28,0.52,0.4,0.34,11,4,0,2,17,17,17,None
+Tetramorium,sericeiventre,94,Pinned,TBISH-164,Drakensberg-Unknown-Unknown,0.86,0.88,0.82,0.1,0.14,0.72,0.54,0.22,0.48,0.42,1.1,1.06,0.82,10,4,0,2,17,10,10,None
+Tetramorium,sericeiventre,94,Pinned,TBISH-165,Drakensberg-Unknown-Unknown,0.94,0.84,0.8,0.14,0.18,0.72,0.5,0.22,0.58,0.4,1.1,0.94,0.78,10,4,0,2,17,10,22,None
+Tetramorium,sericeiventre,94,Wet,TBISH-166,7d-Jan-2010,0.90,0.84,0.88,0.12,0.14,0.72,0.52,0.22,0.56,0.32,1.1,1,0.84,4,4,0,2,10,10,10,None
+Tetramorium,sericeiventre,94,Wet,TBISH-167,7d-Jan-2010,0.86,0.78,0.78,0.12,0.16,0.66,0.42,0.18,0.52,0.4,0.86,0.84,0.74,3,4,0,2,10,10,22,None
+Tetramorium,sericeiventre,94,Wet,TBISH-168,7d-Jan-2010,0.84,0.84,0.78,0.12,0.16,0.7,0.48,0.24,0.54,0.4,1.02,1.02,0.82,5,4,0,2,10,10,22,None
+Tetramorium,sericeiventre,94,Wet,TBISH-169,7d-Jan-2010,0.90,0.84,0.82,0.12,0.16,0.72,0.5,0.14,0.52,0.32,1,0.98,1.02,7,4,0,2,10,10,22,None
+Tetramorium,40,85,Pinned,TBISH-170,6b-Jan-2006,0.66,0.62,0.44,0.12,0.16,0.52,0.34,0.12,0.42,0.26,0.74,0.52,0.44,14,4,0,2,19,16,16,None
+Tetramorium,40,85,Pinned,TBISH-171,5b-Jan-2007,0.68,0.66,0.44,0.14,0.16,0.52,0.34,0.16,0.42,0.24,0.8,0.54,0.46,21,4,0,2,19,15,15,None
+Tetramorium,40,85,Pinned,TBISH-172,5b-Jan-2008,0.72,0.68,0.44,0.14,0.16,0.56,0.36,0.16,0.44,0.28,0.8,0.48,0.48,24,4,0,2,19,15,15,None
+Tetramorium,40,85,Pinned,TBISH-173,5b-Jan-2008,0.74,0.68,0.46,0.14,0.2,0.56,0.38,0.18,0.44,0.26,0.86,0.58,0.44,23,4,0,2,20,15,15,None
+Tetramorium,40,85,Pinned,TBISH-174,6d-Jan-2007,0.62,0.64,0.42,0.14,0.16,0.52,0.36,0.2,0.42,0.28,0.78,0.5,0.42,21,4,0,2,17,16,16,None
+Tetramorium,40,85,Pinned,TBISH-175,6d-Jan-2007,0.72,0.68,0.44,0.14,0.16,0.56,0.36,0.24,0.46,0.28,0.84,0.6,0.54,27,4,0,2,19,16,17,None
+Tetramorium,27,81,Pinned,TBISH-176,8c-Jan-2007,1.12,1.12,0.74,0.18,0.26,0.94,0.6,0.3,0.74,0.64,1.26,0.94,0.78,25,4,0,2,20,19,17,None
+Tetramorium,27,81,Pinned,TBISH-177,8a-Jan-2006,1.08,1.04,0.68,0.18,0.22,0.86,0.6,0.28,0.66,0.58,1.18,0.86,0.68,23,4,0,2,20,15,17,None
+Tetramorium,27,81,Pinned,TBISH-178,8a-Sep-2007,0.96,0.98,0.66,0.16,0.22,0.8,0.46,0.26,0.64,0.56,1.1,0.84,0.64,23,4,0,2,20,17,17,None
+Tetramorium,27,81,Pinned,TBISH-179,8b-Jan-2006,1.06,1.08,0.72,0.2,0.24,0.9,0.58,0.3,0.6,0.48,1.18,0.68,0.64,18,4,0,2,21,21,22,This specimen seems like a different species. Check. 
+Tetramorium,27,81,Pinned,TBISH-180,7a-Jan-2008,1.06,1.06,0.66,0.18,0.26,0.9,0.54,0.26,0.68,0.44,1.22,0.9,0.7,32,4,0,2,21,20,20,None
+Tetramorium,27,81,Pinned,TBISH-181,7a-Jan-2006,0.96,1,0.62,0.16,0.22,0.82,0.5,0.26,0.62,0.456,1.1,0.9,0.7,27,4,0,2,20,19,19,None
+Cerapachys,3,14,Pinned,TBISH-182,3b-Jan-2006,0.92,0.96,0.6,0.16,0.22,0.74,0.48,0.06,0.72,0.5,1.4,0.88,0.7,51,0,0,2,22,10,10,Clypeus length measured just off centre due to well developed frontal lobes.
+Cerapachys,3,14,Pinned,TBISH-183,6b-Sep-2006,0.84,0.88,0.56,0.14,0.18,0.7,0.48,0.06,0.6,0.32,1.28,0.7,0.6,83,0,0,2,22,10,10,Clypeus length measured just off centre due to well developed frontal lobes.
+Cerapachys,3,14,Pinned,TBISH-184,6a-Jan-2007,0.84,0.9,0.58,0.16,0.22,0.72,0.42,0.04,0.68,0.34,1.36,0.769230769,0.538461538,105,0,0,2,22,10,10,Clypeus length measured just off centre due to well developed frontal lobes.
+Cerapachys,3,14,Pinned,TBISH-185,6d-Jan-2006,1.02,0.92,0.56,0.16,0.24,0.74,0.46,0.08,0.68,0.4,1.38,0.74,0.58,90,0,0,2,22,10,10,Clypeus length measured just off centre due to well developed frontal lobes.
+Cerapachys,3,14,Pinned,TBISH-186,4d-Jan-2006,0.94,0.92,0.58,0.16,0.22,0.72,0.5,0.04,0.64,0.3,1.24,0.8,0.6,25,0,0,2,22,10,10,Clypeus length measured just off centre due to well developed frontal lobes.
+Cerapachys,3,14,Pinned,TBISH-187,4d-Jan-2007,0.80,0.86,0.52,0.14,0.2,0.68,0.4,0.04,0.64,0.28,1.34,0.8,0.58,60,0,0,2,22,10,10,Clypeus length measured just off centre due to well developed frontal lobes.
+Tetramorium,8,76,Pinned,TBISH-188,5b-Jan-2009,0.82,0.76,0.68,0.14,0.18,0.62,0.46,0.2,0.54,0.2,1.08,0.74,0.72,24,4,0,2,22,21,21,None
+Tetramorium,8,76,Pinned,TBISH-189,3c-Jan-2010,0.82,0.76,0.74,0.12,0.18,0.64,0.48,0.24,0.52,0.32,1.06,0.9,0.72,24,4,0,2,22,21,21,None
+Tetramorium,8,76,Pinned,TBISH-190,5c-Jan-2009,0.78,0.76,0.68,0.14,0.18,0.6,0.52,0.28,0.52,0.32,1.02,0.9,0.68,25,4,0,2,22,21,21,None
+Tetramorium,8,76,Pinned,TBISH-191,5a-Jan-2012,0.76,0.76,0.7,0.1,0.14,0.64,0.44,0.24,0.54,0.32,1.06,0.94,0.64,23,4,0,2,22,21,21,None
+Tetramorium,8,76,Pinned,TBISH-192,5a-Jan-2012,0.74,0.72,0.72,0.12,0.14,0.6,0.46,0.24,0.5,0.3,1,0.88,0.7,21,4,0,2,22,21,21,None
+Tetramorium,8,76,Pinned,TBISH-193,3c-Sep-2006,0.82,0.8,0.72,0.12,0.14,0.76,0.46,0.2,0.6,0.34,1.08,0.94,0.72,24,4,0,2,22,21,21,None
+Tetramorium,10,77,Pinned,TBISH-194,2d-Sep-2009,0.66,0.66,0.42,0.12,0.14,0.54,0.36,0.16,0.44,0.24,0.72,0.56,0.46,13,4,0,2,21,18,18,None
+Tetramorium,10,77,Pinned,TBISH-195,4a-Jan-2010,0.68,0.68,0.48,0.12,0.16,0.58,0.4,0.2,0.44,0.26,0.84,0.58,0.46,16,4,0,2,20,15,15,None
+Tetramorium,10,77,Pinned,TBISH-196,4a-Jan-2012,0.72,0.68,0.46,0.12,0.18,0.54,0.42,0.18,0.46,0.44,0.84,0.58,0.44,17,4,0,2,21,17,17,None
+Tetramorium,10,77,Pinned,TBISH-197,4b-Sep-2009,0.70,0.72,0.52,0.12,0.16,0.6,0.4,0.2,0.46,0.24,0.76,0.6,0.48,17,4,0,2,21,17,17,None
+Tetramorium,10,77,Pinned,TBISH-198,4a-Jan-2012,0.64,0.7,0.5,0.14,0.18,0.46,0.4,0.2,0.46,0.2,0.86,0.6,0.46,19,4,0,2,21,17,17,None
+Tetramorium,10,77,Pinned,TBISH-199,4b-Jan-2010,0.60,0.62,0.38,0.12,0.14,0.52,0.34,0.18,0.42,0.22,0.78,0.48,0.38,17,4,0,2,21,17,17,None
+Tetramorium,14,78,Pinned,TBISH-200,Drakensberg-Unknown-Unknown,0.56,0.56,0.36,0.08,0.12,0.48,0.3,0.16,0.44,0.4,0.62,0.38,0.3,120,4,0,3,20,17,17,"Very fine, fuzzy white hairs. Very hair. Alternative colour could be white due to hairs. "
+Tetramorium,14,78,Pinned,TBISH-201,6d-Jan-2006,0.58,0.56,0.36,0.08,0.14,0.48,0.3,0.14,0.46,0.28,0.6,0.38,0.3,110,4,0,3,20,17,17,"Very fine, fuzzy white hairs. Very hair. Alternative colour could be white due to hairs. "
+Tetramorium,14,78,Pinned,TBISH-202,8c-Sep-2006,0.58,0.56,0.34,0.08,0.12,0.48,0.3,0.1,0.44,0.26,0.58,0.4,0.28,120,4,0,3,20,17,17,"Very fine, fuzzy white hairs. Very hair. Alternative colour could be white due to hairs. "
+Tetramorium,14,78,Pinned,TBISH-203,8b-Jan-2007,0.58,0.54,0.34,0.08,0.1,0.46,0.3,0.18,0.42,0.28,0.62,0.38,0.28,115,4,0,3,20,17,17,"Very fine, fuzzy white hairs. Very hair. Alternative colour could be white due to hairs. "
+Tetramorium,14,78,Wet,TBISH-204,7d-Jan-2010,0.56,0.54,0.32,0.1,0.12,0.48,0.3,0.14,0.4,0.3,0.54,0.38,0.28,110,4,4,3,20,17,17,"Very fine, fuzzy white hairs. Very hair. Alternative colour could be white due to hairs. "
+Tetramorium,25,80,Pinned,TBISH-205,4a-Sep-2009,0.66,0.66,0.48,0.14,0.18,0.52,0.38,0.2,0.44,0.28,0.76,0.58,0.44,14,4,0,2,20,15,15,None
+Tetramorium,25,80,Pinned,TBISH-206,4d-Jan-2009,0.64,0.66,0.48,0.12,0.16,0.54,0.4,0.22,0.44,0.24,0.78,0.56,0.46,19,4,0,2,20,15,15,None
+Tetramorium,25,80,Pinned,TBISH-207,6c-Sep-2006,0.70,0.68,0.5,0.1,0.16,0.56,0.42,0.22,0.48,0.26,0.82,0.62,0.5,23,4,0,2,20,15,15,None
+Tetramorium,25,80,Pinned,TBISH-208,6c-Sep-2006,0.68,0.68,0.52,0.1,0.14,0.54,0.34,0.2,0.46,0.26,0.78,0.68,0.48,22,4,0,2,15,15,15,None
+Tetramorium,25,80,Pinned,TBISH-209,6c-Sep-2006,0.72,0.68,0.52,0.12,0.16,0.54,0.38,0.14,0.46,0.26,0.84,0.7,0.48,20,4,0,2,20,15,15,None
+Tetramorium,25,80,Wet,TBISH-210,4d-Jan-2009,0.66,0.62,0.46,0.12,0.16,0.52,0.36,0.22,0.42,0.24,0.7,0.66,0.44,17,4,0,2,15,15,15,None
+Technomyrmex,un01,73,Pinned,TBISH-211,Drakensberg-Unknown-2005,0.60,0.58,0.56,0.12,0.18,0.38,0.32,0.12,0.38,0.24,0.58,0.48,0.4,0,0,0,1,23,23,23,None
+Technomyrmex,un01,73,Pinned,TBISH-212,5a-Sep-2006,0.60,0.52,0.54,0.12,0.16,0.38,0.3,0.1,0.36,0.14,0.62,0.54,0.48,0,0,0,1,23,23,23,None
+Technomyrmex,un01,73,Pinned,TBISH-213,5a-Sep-2006,0.60,0.54,0.46,0.12,0.14,0.4,0.32,0.14,0.36,0.2,0.7,0.64,0.48,0,0,0,1,23,23,23,None
+Technomyrmex,un01,73,Pinned,TBISH-214,5a-Jan-2006,0.62,0.56,0.46,0.14,0.14,0.38,0.32,0.12,0.36,0.22,0.78,0.54,0.44,0,0,0,1,23,23,23,None
+Technomyrmex,un01,73,Pinned,TBISH-215,5a-Jan-2006,0.68,0.56,0.56,0.14,0.16,0.4,0.3,0.14,0.38,0.22,0.62,0.54,0.5,0,0,0,1,23,23,23,None
+Technomyrmex,2,72,Pinned,TBISH-216,6c-Jan-2010,0.60,0.54,0.48,0.12,0.16,0.36,0.3,0.14,0.38,0.26,0.66,0.58,0.4,2,0,0,2,22,24,24,None
+Technomyrmex,2,72,Pinned,TBISH-217,6d-Jan-2010,0.60,0.54,0.54,0.12,0.16,0.36,0.38,0.14,0.36,0.36,0.66,0.56,0.48,0,0,0,2,23,23,23,None
+Technomyrmex,2,72,Pinned,TBISH-218,7b-Sep-2006,0.74,0.68,0.68,0.12,0.2,0.4,0.34,0.22,0.48,0.34,0.88,0.76,0.6,0,0,0,2,24,24,24,"Clypeus could be 0.6, looks ike there is a notch taken out of it. Is this the same for the other speciments? I didn't notice it."
+Technomyrmex,2,72,Wet,TBISH-219,7d-Jan-2010,0.80,0.72,0.7,0.12,0.18,0.44,0.4,0.2,0.44,0.32,1,0.76,0.64,0,0,0,2,19,20,21,"Clypeus could be smaller, looks ike there is a notch taken out of it. Is this the same for the other speciments? I didn't notice it."
+Pheidole,4,57,Pinned,TBISH-220,5d-Sep-2007,0.70,0.72,0.78,0.08,0.12,0.6,0.4,0.2,0.42,0.42,0.92,0.84,0.68,29,2,0,2,22,21,22,None
+Pheidole,4,57,Pinned,TBISH-221,4c-Jan-2007,0.70,0.7,0.78,0.1,0.14,0.6,0.46,0.22,0.42,0.4,0.9,0.88,0.7,20,2,0,2,21,21,22,None
+Pheidole,4,57,Pinned,TBISH-222,3d-Jan-2007,0.78,0.76,0.86,0.12,0.14,0.64,0.46,0.18,0.42,0.5,0.86,0.82,0.68,12,2,0,2,22,21,22,None
+Pheidole,4,57,Pinned,TBISH-223,5c-Sep-2007,0.70,0.64,0.64,0.08,0.14,0.54,0.44,0.14,0.38,0.44,0.78,0.82,0.84,18,2,0,2,22,22,22,None
+Pheidole,4,57,Pinned,TBISH-224,6b-Sep-2007,0.64,0.66,0.68,0.1,0.14,0.56,0.42,0.2,0.4,0.44,0.8,0.78,0.62,22,2,0,2,22,22,22,None
+Pheidole,4,57,Pinned,TBISH-225,5a-Jan-2007,0.70,0.68,0.74,0.08,0.14,0.56,0.44,0.18,0.4,0.46,0.84,0.82,0.7,21,2,0,2,22,22,22,None
+Pheidole,1,56,Pinned,TBISH-226,7c-Sep-2006,0.72,0.7,0.72,0.08,0.14,0.6,0.48,0.1,0.4,0.4,0.88,0.74,0.46,22,2,0,2,17,16,16,None
+Pheidole,1,56,Pinned,TBISH-227,8a-Jan-2006,0.68,0.66,0.7,0.1,0.14,0.56,0.38,0.2,0.38,0.48,0.86,0.74,0.6,22,2,0,2,17,16,16,None
+Pheidole,1,56,Pinned,TBISH-228,7d-Jan-2006,0.74,0.76,0.72,0.12,0.18,0.66,0.48,0.2,0.44,0.4,0.9,0.78,0.68,18,2,0,2,17,16,16,None
+Pheidole,1,56,Pinned,TBISH-229,8c-Jan-2007,0.62,0.68,0.7,0.08,0.12,0.54,0.4,0.18,0.38,0.48,0.84,0.68,0.52,14,2,0,2,17,16,16,None
+Pheidole,1,56,Pinned,TBISH-230,8d-Sep-2006,0.68,0.7,0.66,0.1,0.14,0.56,0.42,0.18,0.38,0.46,0.84,0.7,0.54,16,2,0,2,17,16,16,None
+Pheidole,1,56,Pinned,TBISH-231,8a-Sep-2007,0.64,0.66,0.68,0.1,0.12,0.56,0.38,0.2,0.36,0.4,0.84,0.76,0.5,21,2,0,2,21,17,17,None
+Pheidole,un01,59,Pinned,TBISH-232,4a-Jan-2008,0.70,0.7,0.78,0.1,0.12,0.6,0.44,0.18,0.4,0.52,0.88,0.84,0.66,23,2,0,2,17,17,17,None
+Pheidole,un01,59,Pinned,TBISH-233,8a-Sep-2007,0.78,0.82,0.76,0.1,0.14,0.7,0.52,0.22,0.5,0.56,0.98,0.96,0.74,23,2,0,2,21,17,21,None
+Pheidole,un01,59,Pinned,TBISH-234,4d-Jan-2006,0.74,0.76,0.82,0.1,0.14,0.68,0.48,0.2,0.46,0.44,0.96,0.94,0.7,24,2,0,2,21,17,21,None
+Pheidole,un01,59,Pinned,TBISH-235,3a-Sep-2006,0.74,0.7,0.82,0.08,0.16,0.6,0.48,0.18,0.42,0.44,0.92,0.86,0.68,21,2,0,2,21,21,21,None
+Pheidole,un01,59,Pinned,TBISH-236,3a-Sep-2006,0.76,0.8,0.8,0.12,0.12,0.68,0.5,0.22,0.44,0.46,1.02,0.88,0.72,27,2,0,2,21,21,22,None
+Pheidole,un01,59,Pinned,TBISH-237,3a-Sep-2006,0.78,0.8,0.78,0.1,0.14,0.7,0.5,0.26,0.46,0.46,1.06,0.94,0.72,44,2,0,2,22,22,22,None
+Pheidole,7,58,Pinned,TBISH-238,8a-Jan-2006,0.58,0.8,0.6,0.08,0.12,0.52,0.36,0.16,0.3,0.4,0.68,0.58,0.46,7,2,0,2,17,16,16,None
+Pheidole,7,58,Pinned,TBISH-239,6d-Sep-2006,0.60,0.64,0.64,0.08,0.14,0.54,0.42,0.22,0.36,0.3,0.78,0.68,0.52,14,2,0,2,17,16,16,None
+Pheidole,7,58,Pinned,TBISH-240,8b-Jan-2007,0.58,0.56,0.64,0.08,0.14,0.44,0.38,0.16,0.32,0.34,0.72,0.68,0.48,20,2,0,2,17,16,16,None
+Monomorium,un01,45,Pinned,TBISH-241,3a-Sep-2009,0.64,0.52,0.42,0.06,0.12,0.48,0.32,0.12,0.34,0.38,0.64,0.48,0.38,0,0,0,2,21,21,21,None
+Monomorium,un01,45,Pinned,TBISH-242,7d-Sep-2009,0.62,0.5,0.48,0.08,0.1,0.42,0.32,0.12,0.34,0.34,0.74,0.52,0.38,0,0,0,2,21,21,21,None
+Monomorium,un01,45,Pinned,TBISH-243,5b-Sep-2009,0.64,0.52,0.52,0.08,0.12,0.42,0.3,0.18,0.32,0.3,0.74,0.5,0.44,0,0,0,2,21,21,21,None
+Monomorium,un01,45,Pinned,TBISH-244,5b-Jan-2009,0.68,0.56,0.52,0.08,0.14,0.46,0.34,0.2,0.34,0.4,0.8,0.54,0.46,0,0,0,2,21,21,21,None
+Monomorium,un01,45,Pinned,TBISH-245,4a-Sep-2009,0.64,0.5,0.48,0.06,0.12,0.44,0.3,0.16,0.32,0.42,0.8,0.54,0.44,0,0,0,2,21,21,21,None
+Monomorium,un01,45,Pinned,TBISH-246,5b-Sep-2009,0.66,0.58,0.54,0.08,0.14,0.5,0.3,0.18,0.38,0.4,0.84,0.54,0.48,0,0,0,2,21,21,21,None
+Monomorium,11,43,Pinned,TBISH-247,7c-Jan-2008,0.80,0.8,0.54,0.08,0.1,0.74,0.46,0.24,0.5,0.46,0.82,0.62,0.54,0,0,0,1,17,17,16,None
+Monomorium,11,43,Pinned,TBISH-248,7c-Jan-2008,0.78,0.78,0.42,0.08,0.1,0.7,0.42,0.24,0.5,0.5,0.84,0.64,0.56,0,0,0,1,17,17,15,None
+Monomorium,11,43,Pinned,TBISH-249,Drakensberg-Unknown-2005,0.78,0.78,0.5,0.08,0.12,0.72,0.42,0.22,0.48,0.48,0.8,0.64,0.62,0,0,0,1,17,17,15,None
+Monomorium,11,43,Pinned,TBISH-250,Drakensberg-Unknown-2005,0.86,0.84,0.56,0.06,0.14,0.78,0.4,0.22,0.5,0.48,0.92,0.68,0.6,0,0,0,1,17,17,15,None
+Monomorium,11,43,Pinned,TBISH-251,7c-Jan-2008,0.78,0.8,0.52,0.08,0.1,0.74,0.4,0.22,0.46,0.44,0.78,0.66,0.58,0,0,0,1,17,17,15,None
+Monomorium,11,43,Pinned,TBISH-252,7c-Jan-2008,0.80,0.8,0.52,0.08,0.14,0.76,0.38,0.22,0.48,0.44,0.84,0.6,0.62,0,0,0,1,17,17,15,None
+Monomorium,12,44,Pinned,TBISH-253,6d-Jan-2010,0.46,0.38,0.24,0.04,0.06,0.32,0.16,0.06,0.22,0.28,0.48,0.28,NA,6,0,0,1,20,20,21,None
+Monomorium,12,44,Pinned,TBISH-254,6a-Sep-2009,0.48,0.36,0.3,0.06,0.08,0.34,0.2,0.12,0.24,0.38,0.48,0.28,0.28,12,0,0,1,22,21,21,None
+Monomorium,12,44,Pinned,TBISH-255,6b-Sep-2009,0.44,0.36,0.26,0.04,0.06,0.32,0.16,0.08,0.22,0.22,0.48,0.24,0.24,5,0,0,1,21,21,21,None
+Monomorium,12,44,Pinned,TBISH-256,5a-Jan-2009,0.48,0.38,0.38,0.06,0.06,0.3,0.2,0.14,0.24,0.36,0.46,0.28,0.22,14,0,0,1,20,19,19,None
+Monomorium,12,44,Wet,TBISH-257,6b-Sep-2009,0.46,0.36,0.288,0.04,0.06,0.336,0.192,0.072,0.22,0.34,0.48,0.28,0.28,6,0,0,1,17,17,21,None
+Monomorium,12,44,Wet,TBISH-258,6b-Sep-2009,0.44,0.36,0.32,0.04,0.06,0.34,0.2,0.08,0.24,0.3,0.44,0.3,0.2,1,0,0,1,17,17,21,None
+Monomorium,taedium,47,Pinned,TBISH-259,5a-Sep-2009,0.42,0.32,0.26,0.04,0.06,0.28,0.14,0.06,0.2,0.22,0.4,0.24,0.22,8,0,0,1,20,17,17,None
+Monomorium,taedium,47,Pinned,TBISH-260,4d-Jan-2009,0.40,0.32,0.28,0.04,0.06,0.3,0.18,0.12,0.22,0.2,0.44,0.24,0.24,6,0,0,1,20,17,17,None
+Monomorium,taedium,47,Pinned,TBISH-261,5a-Jan-2009,0.36,0.32,0.26,0.04,0.06,0.3,0.18,0.14,0.2,0.28,0.42,0.26,0.22,2,0,0,1,20,17,20,None
+Monomorium,taedium,47,Pinned,TBISH-262,6d-Jan-2010,0.40,0.3,0.24,0.04,0.06,0.26,0.16,0.12,0.18,0.3,0.38,0.22,0.2,5,0,0,1,20,17,17,None
+Monomorium,taedium,47,Pinned,TBISH-263,Drakensberg-Unknown-Unknown,0.40,0.32,0.24,0.04,0.06,0.28,0.18,0.08,0.22,0.3,0.4,0.28,NA,0,0,0,1,20,20,20,None
+Monomorium,taedium,47,Pinned,TBISH-264,6d-Jan-2006,0.44,0.36,0.28,0.04,0.08,0.3,0.18,0.12,0.24,0.34,0.44,0.3,0.24,0,0,0,1,20,20,20,None
+Monomorium,1,39,Pinned,TBISH-265,1d-Jan-2010,0.64,0.52,0.44,0.06,0.12,0.46,0.3,0.14,0.24,0.48,0.74,0.52,0.44,7,0,0,1,20,20,20,None
+Monomorium,1,39,Pinned,TBISH-266,1c-Jan-2010,0.58,0.52,0.52,0.06,0.1,0.46,0.3,0.18,0.32,0.42,0.68,0.46,0.4,7,0,0,1,20,20,20,None
+Monomorium,1,39,Pinned,TBISH-267,1b-Jan-2010,0.64,0.52,0.54,0.06,0.1,0.44,0.3,0.1,0.34,0.5,0.66,0.54,0.46,7,0,0,1,15,15,15,None
+Monomorium,1,39,Pinned,TBISH-268,1d-Jan-2010,0.60,0.58,0.46,0.06,0.08,0.4,0.26,0.08,0.3,0.42,0.64,0.44,0.38,13,0,0,1,19,19,19,None
+Monomorium,1,39,Pinned,TBISH-269,1c-Jan-2012,0.56,0.48,0.48,0.06,0.1,0.46,0.36,0.18,0.34,0.44,0.64,0.48,0.42,8,0,0,1,21,20,19,None
+Monomorium,1,39,Pinned,TBISH-270,1a-Jan-2010,0.62,0.52,0.5,0.06,0.1,0.46,0.32,0.12,0.32,0.48,0.68,0.52,0.42,9,0,0,1,17,17,17,None
+Monomorium,musicum,46,Pinned,TBISH-271,3a-Jan-2006,0.42,0.34,0.26,0.04,0.08,0.28,0.16,0.14,0.32,0.3,0.42,0.22,0.2,0,0,0,1,17,15,15,None
+Monomorium,musicum,46,Pinned,TBISH-272,2a-Jan-2010,0.38,0.22,0.24,0.04,0.06,0.18,0.18,0.12,0.2,0.3,0.44,0.22,0.2,3,0,0,1,16,16,16,None
+Monomorium,musicum,46,Pinned,TBISH-273,3c-Sep-2009,0.38,0.3,0.26,0.04,0.06,0.28,0.14,0.06,0.18,0.3,0.4,0.22,0.2,0,0,0,1,17,16,16,None
+Monomorium,musicum,46,Pinned,TBISH-274,4d-Sep-2009,0.40,0.3,0.26,0.04,0.06,0.28,0.16,0.1,0.2,0.32,0.38,0.28,0.2,2,0,0,1,17,16,16,None
+Monomorium,musicum,46,Wet,TBISH-275,2a-Jan-2010,0.42,0.32,0.26,0.04,0.06,0.28,0.14,0.08,0.16,0.2,0.42,0.24,0.22,0,0,0,1,17,16,16,None
+Monomorium,musicum,46,Wet,TBISH-276,2a-Jan-2010,0.42,0.34,0.28,0.04,0.06,0.3,0.16,0.08,0.22,0.36,0.48,0.24,0.18,0,0,0,1,17,16,16,None
+Monomorium,3,40,Pinned,TBISH-277,Drakensberg-Unknown-2005,0.84,0.78,0.74,0.1,0.14,0.68,0.38,0.22,0.58,0.7,1.08,0.8,0.7,0,0,0,1,22,22,22,None
+Monomorium,3,40,Pinned,TBISH-278,Drakensberg-Unknown-2005,0.84,0.74,0.74,0.12,0.14,0.66,0.4,0.22,0.46,0.64,0.94,0.76,0.66,0,0,0,1,22,22,22,None
+Monomorium,3,40,Pinned,TBISH-279,Drakensberg-Unknown-2005,0.84,0.76,0.7,0.1,0.14,0.66,0.4,0.22,0.46,0.68,0.94,0.76,0.62,0,0,0,1,22,22,22,None
+Monomorium,3,40,Pinned,TBISH-280,2a-Jan-2010,0.84,0.76,0.66,0.12,0.14,0.64,0.42,0.26,0.44,0.6,0.92,0.74,0.64,0,0,0,1,22,22,22,None
+Monomorium,3,40,Pinned,TBISH-281,2a-Jan-2010,0.84,0.72,0.74,0.1,0.14,0.62,0.4,0.2,0.44,0.68,0.92,0.76,0.64,0,0,0,1,22,22,22,None
+Monomorium,3,40,Pinned,TBISH-282,2a-Sep-2007,0.86,0.78,0.7,0.08,0.14,0.66,0.38,0.12,0.46,0.68,0.92,0.7,0.62,0,0,0,1,22,22,22,None
+Monomorium,un01,45,Pinned,TBISH-283,3a-Jan-2010,0.68,0.76,0.56,0.08,0.12,0.48,0.34,0.16,0.34,0.56,0.78,0.56,0.46,0,0,0,2,22,20,22,None
+Monomorium,un01,45,Pinned,TBISH-284,Drakensberg-Unknown-2005,0.66,0.58,0.5,0.08,0.12,0.48,0.26,0.2,0.38,0.6,0.78,0.54,0.44,0,0,0,2,17,15,17,None
+Monomorium,un01,45,Pinned,TBISH-285,Drakensberg-Unknown-2005,0.70,0.56,0.46,0.08,0.12,0.48,0.3,0.18,0.38,0.58,0.82,0.56,0.52,0,0,0,2,17,15,17,None
+Monomorium,un01,45,Wet,TBISH-286,3a-Jan-2010,0.64,0.52,0.52,0.06,0.12,0.46,0.3,0.16,0.32,0.56,0.76,0.52,0.38,0,0,0,2,22,22,20,None
+Monomorium,un01,45,Wet,TBISH-287,3a-Jan-2010,0.68,0.6,0.56,0.06,0.12,0.5,0.38,0.18,0.36,0.56,0.76,0.48,0.46,0,0,0,2,22,22,22,None
+Monomorium,un01,45,Wet,TBISH-288,3a-Jan-2010,0.62,0.52,0.54,0.08,0.12,0.46,0.32,0.16,0.38,0.48,0.76,0.52,0.44,0,0,0,2,22,22,22,None
+Cerapachys,un01,15,Pinned,TBISH-289,6d-Jan-2006,0.76,0.68,0.48,0.12,0.18,0.56,0.32,0.12,0.48,0.44,1.06,0.64,0.5,72,0,0,1,22,10,10,None
+Cerapachys,un01,15,Pinned,TBISH-290,4b-Jan-2006,0.68,0.56,0.4,0.08,0.1,0.46,0.28,0.1,0.4,0.62,0.88,0.48,0.38,63,0,0,1,22,10,22,None
+Cerapachys,un01,15,Wet,TBISH-291,4b-Jan-2006,0.64,0.5,0.34,0.08,0.1,0.44,0.28,0.12,0.3,0.4,0.8,0.44,0.34,40,0,0,1,22,10,10,None
+Cerapachys,un01,15,Wet,TBISH-292,4b-Jan-2006,0.68,0.56,0.4,0.12,0.14,0.5,0.26,0.14,0.42,0.38,0.88,0.48,0.4,57,0,0,1,21,10,10,None
+Cerapachys,un01,15,Wet,TBISH-293,4b-Jan-2006,0.66,0.5,0.3,0.08,0.1,0.4,0.28,0.14,0.36,0.44,0.78,0.44,0.32,84,0,0,1,21,10,10,None
+Cerapachys,un01,15,Wet,TBISH-294,4b-Jan-2006,0.64,0.54,0.34,0.1,0.12,0.44,0.3,0.14,0.38,0.42,0.78,0.44,0.36,76,0,0,1,21,10,10,None
+Tetramorium,30,83,Pinned,TBISH-295,2a-Jan-2006,0.78,0.8,0.62,0.12,0.18,0.64,0.4,0.24,0.54,0.48,0.96,0.72,0.6,22,4,0,2,21,17,17,None
+Tetramorium,30,83,Pinned,TBISH-296,2d-Jan-2010,0.72,0.7,0.54,0.12,0.14,0.6,0.36,0.2,0.48,0.3,0.82,0.62,0.48,16,4,0,2,21,17,17,None
+Tetramorium,30,83,Pinned,TBISH-297,2a-Jan-2006,0.76,0.8,0.62,0.12,0.2,0.64,0.42,0.22,0.52,0.46,0.96,0.72,0.56,22,4,0,2,21,17,17,None
+Tetramorium,30,83,Wet,TBISH-298,2d-Jan-2010,0.74,0.7,0.4,0.12,0.16,0.56,0.36,0.18,0.46,0.44,0.84,0.6,0.4,26,4,0,2,21,17,17,None
+Tetramorium,30,83,Wet,TBISH-299,2d-Jan-2010,0.74,0.7,0.46,0.12,0.18,0.56,0.4,0.16,0.46,0.42,0.74,0.56,0.48,15,4,0,2,21,20,20,None
+Tetramorium,30,83,Wet,TBISH-300,2d-Jan-2010,0.66,0.7,0.48,0.12,0.16,0.56,0.38,0.18,0.42,0.36,0.76,0.56,0.44,31,4,0,2,21,17,17,None
+Tetramorium,28,82,Pinned,TBISH-301,7b-Sep-2006,0.58,0.56,0.36,0.08,0.12,0.48,0.3,0.16,0.38,0.34,0.64,0.4,0.34,12,4,0,2,21,20,17,None
+Tetramorium,42,87,Pinned,TBISH-302,4d-Jan-2009,0.72,0.74,0.5,0.08,0.14,0.64,0.38,0.2,0.46,0.3,0.64,0.54,0.46,21,4,0,1,22,22,21,"Hairs split at their ends. Perhaps multiple hairs each coming out of one ""pore""?"
+Tetramorium,6,75,Pinned,TBISH-303,Drakensberg-Unknown-2005,0.66,0.7,0.46,0.12,0.14,0.58,0.38,0.18,0.46,0.38,0.76,0.56,0.42,5,4,0,2,21,15,21,None
+Tetramorium,43,88,Pinned,TBISH-304,7d-Jan-2010,0.90,0.86,0.56,0.1,0.14,0.72,0.38,0.24,0.5,0.4,0.78,0.64,0.52,18,4,0,2,21,21,22,None
+Tetramorium,43,88,Wet,TBISH-305,7d-Jan-2010,0.86,0.88,0.54,0.14,0.18,0.76,0.48,0.22,0.6,0.52,0.94,0.74,0.58,28,4,0,2,21,19,20,None
+Tetramorium,43,88,Wet,TBISH-306,7d-Jan-2010,0.98,0.96,0.62,0.12,0.18,0.84,0.48,0.18,0.66,0.42,1.02,0.72,0.58,34,4,0,2,21,21,19,None
+Tetramorium,5,74,Pinned,TBISH-307,6b-Jan-2010,0.94,0.98,0.66,0.12,0.22,0.84,0.46,0.22,0.62,0.5,1.06,0.78,0.6,32,4,0,2,22,22,19,None
+Tetramorium,5,74,Pinned,TBISH-308,6d-Jan-2010,0.90,0.98,0.64,0.12,0.2,0.84,0.58,0.22,0.62,0.6,1.08,0.82,0.68,24,4,0,2,21,21,19,None
+Tetramorium,5,74,Pinned,TBISH-309,Drakensberg-Unknown-2005,0.88,0.86,0.56,0.12,0.16,0.72,0.42,0.2,0.6,0.44,0.92,0.7,0.54,20,4,0,2,19,19,19,None
+Tetramorium,5,74,Wet,TBISH-310,6b-Jan-2010,0.88,0.9,0.58,0.12,0.16,0.76,0.44,0.26,0.54,0.5,0.96,0.62,0.52,22,4,0,2,20,19,19,None
+Tetramorium,5,74,Wet,TBISH-311,6b-Jan-2010,0.94,0.94,0.64,0.14,0.18,0.8,0.44,0.24,0.6,0.56,0.92,0.72,0.64,33,4,0,2,22,20,20,None
+Tetramorium,5,74,Wet,TBISH-312,6b-Jan-2010,0.76,0.76,0.6,0.1,0.14,0.72,0.38,0.18,0.46,0.44,0.78,0.68,0.46,27,4,0,2,20,20,20,None
+Tetramorium,32,84,Pinned,TBISH-313,8d-Jan-2007,0.64,0.64,0.5,0.02,0.02,0.6,0.4,0.18,0.46,0.38,0.74,0.48,0.4,12,4,0,2,16,16,17,None
+Tetramorium,32,84,Pinned,TBISH-314,8d-Jan-2007,0.64,0.64,0.48,0.04,0.04,0.6,0.34,0.16,0.44,0.4,0.76,0.5,0.44,19,4,0,2,16,16,17,None
+Tetramorium,32,84,Wet,TBISH-315,7d-Jan-2010,0.52,0.44,0.32,0.02,0.04,0.42,0.3,0.16,0.32,0.32,0.58,0.28,0.28,20,4,0,2,16,16,16,None
+Tetramorium,bothae,90,Pinned,TBISH-316,4d-Jan-2009,0.64,0.56,0.44,0.08,0.12,0.46,0.32,0.18,0.38,0.4,0.7,0.48,0.38,12,4,0,2,22,21,22,Originally 41
+Tetramorium,bothae,90,Pinned,TBISH-317,5b-Jan-2009,0.58,0.52,0.42,0.08,0.12,0.44,0.28,0.16,0.36,0.36,0.64,0.44,0.4,13,4,0,2,22,21,22,Originally 41
+Tetramorium,bothae,90,Wet,TBISH-318,5b-Jan-2009,0.62,0.58,0.42,0.08,0.14,0.5,0.32,0.18,0.4,0.44,0.74,0.46,0.36,18,4,0,2,22,21,22,Originally 41
+Tetramorium,bothae,90,Wet,TBISH-319,5b-Jan-2009,0.58,0.52,0.42,0.1,0.14,0.44,0.36,0.16,0.42,0.22,0.72,0.42,0.38,16,4,0,2,22,21,22,Originally 41
+Tetramorium,bothae,90,Wet,TBISH-320,5b-Jan-2009,0.60,0.56,0.46,0.1,0.12,0.48,0.3,0.18,0.38,0.3,0.7,0.48,0.36,16,4,0,2,22,21,22,Originally 41
+Tetramorium,bothae,90,Wet,TBISH-321,5b-Jan-2009,0.62,0.54,0.44,0.08,0.14,0.44,0.3,0.16,0.34,0.26,0.64,0.42,NA,13,4,0,2,22,21,22,Originally 41
+Tetramorium,setuliferum,95,Pinned,TBISH-322,7b-Jan-2006,1.08,1.16,0.86,0.14,0.18,1.02,0.64,0.28,0.68,0.62,1.12,1,0.74,0,2,0,2,10,10,20,None
+Tetramorium,setuliferum,95,Pinned,TBISH-323,Drakensberg-Unknown-2005,1.12,1.38,0.86,0.16,0.24,1.2,0.62,0.24,0.78,0.66,1.2,1.18,0.94,0,2,0,2,10,10,20,None
+Tetramorium,setuliferum,95,Wet,TBISH-324,7d-Jan-2009,1.24,1.3,0.88,0.18,0.24,1.16,0.68,0.28,0.84,0.6,1.3,1.14,0.94,0,2,0,2,10,10,20,None
+Tetramorium,setuliferum,95,Wet,TBISH-325,7d-Jan-2009,1.16,1.22,0.8,0.2,0.24,1.06,0.74,0.36,0.78,0.5,1.16,1.04,0.8,0,2,0,2,10,10,20,None
+Tetramorium,setuliferum,95,Wet,TBISH-326,7d-Jan-2009,1.18,1.24,0.92,0.16,0.22,1.06,0.64,0.32,0.68,0.6,1.22,0.96,0.8,0,2,0,2,10,10,20,None
+Tetramorium,setuliferum,95,Wet,TBISH-327,7d-Jan-2009,1.02,1.18,0.66,0.14,0.2,1.02,0.64,0.26,0.7,0.38,1.38,1,0.84,0,2,0,2,10,10,20,None
+Solenopsis,2,68,Pinned,TBISH-328,2b-Sep-2006,0.48,0.38,0.3,0.04,0.04,0.38,0.22,0.16,0.24,0.3,0.58,0.26,0.22,44,0,0,1,16,16,16,None
+Solenopsis,2,68,Pinned,TBISH-329,3a-Jan-2006,0.68,0.66,0.42,0.06,0.06,0.64,0.32,0.22,0.42,0.48,0.78,0.46,0.44,41,0,0,1,17,17,17,None
+Solenopsis,2,68,Pinned,TBISH-330,3a-Jan-2006,0.62,0.64,0.42,0.04,0.06,0.62,0.34,0.2,0.42,0.5,0.78,0.44,0.44,39,0,0,1,17,17,17,None
+Solenopsis,2,68,Wet,TBISH-331,2a-Jan-2006,0.68,0.62,0.4,0.04,0.04,0.6,0.38,0.12,0.42,0.38,0.72,0.42,0.42,46,0,0,1,17,17,16,None
+Solenopsis,2,68,Wet,TBISH-332,2a-Jan-2006,0.56,0.5,0.38,0.02,0.02,0.5,0.28,0.1,0.34,0.48,0.68,0.38,0.34,40,0,0,1,15,15,15,None
+Solenopsis,2,68,Wet,TBISH-333,2a-Jan-2006,0.62,0.52,0.36,0.02,0.02,0.52,0.3,0.16,0.34,0.4,0.68,0.36,0.36,34,0,0,1,17,17,17,None
+Strumigenys,2,71,Pinned,TBISH-334,9c-Jan-2007,0.40,0.22,0.2,0.04,0.04,0.2,0.14,0.14,0.24,0.1,0.46,0.28,0.2,0,0,0,2,17,17,17,None
+Strumigenys,2,71,Pinned,TBISH-335,8c-Jan-2007,0.26,0.2,0.14,0.04,0.04,0.18,0.16,0.08,0.22,0.12,0.42,0.22,0.2,0,0,0,2,17,17,17,None
+Strumigenys,2,71,Pinned,TBISH-336,8c-Jan-2007,0.36,0.22,0.14,0.04,0.04,0.2,0.16,0.1,0.22,0.1,0.44,0.22,0.22,0,0,0,2,17,17,17,None
+Strumigenys,2,71,Pinned,TBISH-337,8c-Jan-2007,0.36,0.2,0.16,0.04,0.04,0.18,0.14,0.08,0.24,0.1,0.42,0.3,0.22,0,0,0,2,17,17,17,None
+Strumigenys,2,71,Pinned,TBISH-338,8d-Jan-2010,0.38,0.24,0.18,0.04,0.04,0.22,0.18,0.14,0.24,0.08,0.42,0.28,0.2,0,0,0,2,17,17,17,None
+Strumigenys,2,71,Pinned,TBISH-339,8d-Jan-2010,0.40,0.22,0.22,0.04,0.04,0.2,0.2,0.1,0.22,0.12,0.44,0.24,0.24,0,0,0,2,17,17,17,None
+Strumigenys,1,70,Pinned,TBISH-340,7b-Jan-2006,0.50,0.34,0.28,0.04,0.08,0.32,0.24,0.16,0.28,0.2,0.5,0.36,0.3,4,2,0,2,17,15,15,None
+Strumigenys,1,70,Wet,TBISH-341,7d-Jan-2010,0.50,0.38,0.34,0.04,0.06,0.36,0.26,0.12,0.32,0.16,0.54,0.38,0.3,2,2,0,2,17,17,17,None
+Strumigenys,1,70,Wet,TBISH-342,7a-Jan-2010,0.48,0.36,0.28,0.04,0.06,0.34,0.26,0.12,0.28,0.28,0.52,0.38,0.26,1,2,0,2,17,17,17,None
+Strumigenys,1,70,Wet,TBISH-343,7a-Jan-2011,0.46,0.34,0.26,0.04,0.06,0.32,0.24,0.12,0.28,0.26,0.52,0.34,0.28,1,2,0,2,17,17,17,None
+Strumigenys,1,70,Wet,TBISH-344,7c-Jan-2010,0.52,0.36,0.3,0.04,0.06,0.34,0.24,0.12,0.28,0.26,0.52,0.38,0.22,4,2,0,2,17,17,17,None
+Strumigenys,1,70,Wet,TBISH-345,7c-Jan-2010,0.50,0.38,0.3,0.04,0.06,0.32,0.24,0.14,0.28,0.34,0.56,0.38,0.3,2,2,0,2,17,17,17,None
+Meranoplus,peringueyi,37,Pinned,TBISH-346,Drakensberg-Unknown-2005,0.90,0.94,0.56,0.12,0.18,0.78,0.4,0.2,0.82,0.74,0.84,0.7,0.6,57,8,0,3,17,16,17,None
+Meranoplus,peringueyi,37,Pinned,TBISH-347,7c-Sep-2011,0.72,0.82,0.48,0.12,0.16,0.7,0.36,0.24,0.72,0.64,0.76,0.56,0.52,53,6,0,3,23,23,23,"Very different colour and slightly smaller than 1st specimen. Buy key indicates that it is same species: pronotum shape, 5 teeth on mandible and convex clypeus. "
+Meranoplus,peringueyi,37,Pinned,TBISH-348,8c-Jan-2012,0.74,0.84,0.5,0.1,0.12,0.74,0.42,0.24,0.72,0.6,0.72,0.58,0.48,72,6,0,3,17,15,17,"Colour similar to first specmen, size similar to second. "
+Meranoplus,peringueyi,37,Pinned,TBISH-349,6a-Jan-2012,0.84,0.88,0.6,0.1,0.14,0.74,0.4,0.2,0.76,0.74,0.82,0.64,0.54,64,6,0,3,22,22,22,None
+Meranoplus,peringueyi,37,Pinned,TBISH-350,6b-Jan-2010,0.84,0.9,0.58,0.12,0.18,0.74,0.44,0.2,0.62,0.58,0.78,0.624,0.528,67,6,0,3,21,21,19,None
+Meranoplus,peringueyi,37,Pinned,TBISH-351,6c-Sep-2006,0.88,0.96,0.52,0.14,0.18,0.8,0.4,0.22,0.84,0.68,0.84,0.76,0.62,60,6,0,3,21,17,17,None
+Meranoplus,peringueyi,37,Pinned,TBISH-352,8c-Jan-2011,0.80,0.82,0.54,0.12,0.16,0.7,0.4,0.14,0.68,0.56,0.74,0.54,0.5,53,6,0,3,17,15,17,Originally called magretti
+Meranoplus,peringueyi,37,Pinned,TBISH-353,8d-Jan-2012,0.76,0.9,0.54,0.14,0.16,0.74,0.4,0.26,0.72,0.68,0.78,0.6,0.56,45,6,0,3,17,17,20,Originally called magretti
+Meranoplus,peringueyi,37,Pinned,TBISH-354,8c-Jan-2011,0.80,0.84,0.56,0.12,0.16,0.72,0.4,0.16,0.74,0.66,0.74,0.54,0.38,61,6,0,3,17,17,20,Originally called magretti
+Meranoplus,peringueyi,37,Pinned,TBISH-355,Drakensberg-Unknown-2005,0.82,0.88,0.54,0.1,0.16,0.72,0.4,0.26,0.74,0.62,0.78,0.66,0.56,65,6,0,3,17,17,17,Originally called magretti
+Lepisiota,un05,34,Pinned,TBISH-356,7a-Jan-2006,0.66,0.6,0.66,0.14,0.2,0.42,0.28,0.16,0.44,0.3,0.86,0.74,0.64,12,2,2,2,22,22,22,None
+Lepisiota,un05,34,Pinned,TBISH-357,7c-Jan-2006,0.64,0.58,0.66,0.12,0.16,0.4,0.28,0.18,0.36,0.32,0.82,0.62,0.62,8,2,2,2,22,22,22,None
+Lepisiota,un05,34,Pinned,TBISH-358,7c-Jan-2006,0.66,0.58,0.7,0.12,0.22,0.4,0.3,0.16,0.4,0.32,0.84,0.7,0.66,11,2,2,2,10,10,22,None
+Lepisiota,un05,34,Pinned,TBISH-359,7a-Jan-2009,0.60,0.56,0.64,0.12,0.18,0.38,0.28,0.18,0.4,0.34,0.82,0.76,0.58,8,2,2,2,22,22,22,None
+Lepisiota,un05,34,Pinned,TBISH-360,5c-Jan-2009,0.64,0.58,0.68,0.14,0.2,0.44,0.32,0.18,0.4,0.28,0.88,0.68,0.62,11,2,2,2,22,10,22,Not sure this is the same species. Petiole is much shorter. Or could be an artefact of the mounting. 
+Lepisiota,un05,34,Pinned,TBISH-361,3a-Jan-2010,0.62,0.54,0.64,0.14,0.18,0.38,0.26,0.18,0.38,0.38,0.78,0.68,0.58,7,2,2,2,22,22,22,None
+Lepisiota,un01,32,Pinned,TBISH-362,6b-Jan-2009,0.54,0.58,0.48,0.1,0.14,0.3,0.24,0.14,0.3,0.38,0.62,0.44,0.44,26,0,0,1,22,22,22,None
+Lepisiota,un01,32,Pinned,TBISH-363,7a-Jan-2009,0.54,0.52,0.48,0.12,0.16,0.34,0.26,0.14,0.32,0.28,0.64,0.5,0.5,12,0,0,1,22,1,22,None
+Lepisiota,un01,32,Pinned,TBISH-364,5c-Jan-2009,0.54,0.5,0.48,0.12,0.16,0.34,0.26,0.14,0.36,0.3,0.68,0.52,0.48,20,0,0,1,1,1,1,None
+Lepisiota,un01,32,Pinned,TBISH-365,7a-Jan-2006,0.50,0.44,0.44,0.08,0.12,0.26,0.22,0.12,0.28,0.26,0.6,0.44,0.42,33,0,0,1,22,22,22,None
+Lepisiota,un01,32,Pinned,TBISH-366,7a-Jan-2006,0.58,0.46,0.44,0.1,0.14,0.28,0.2,0.14,0.3,0.26,0.64,0.48,0.42,34,0,0,1,22,22,22,None
+Lepisiota,un01,32,Pinned,TBISH-367,Drakensberg-Unknown-2005,0.56,0.52,0.48,0.12,0.14,0.34,0.3,0.18,0.34,0.24,0.68,0.52,0.5,20,0,0,1,22,22,22,None
+Lepisiota,un03,33,Pinned,TBISH-368,6d-Jan-2006,0.62,0.56,0.66,0.12,0.02,0.4,0.3,0.16,0.38,0.4,0.82,0.66,0.64,5,2,2,2,22,22,21,None
+Lepisiota,un03,33,Pinned,TBISH-369,6d-Jan-2006,0.62,0.54,0.6,0.12,0.18,0.36,0.3,0.16,0.38,0.34,0.78,0.7,0.66,7,2,2,2,24,1,24,None
+Lepisiota,un03,33,Pinned,TBISH-370,3a-Jan-2006,0.60,0.5,0.62,0.14,0.18,0.36,0.24,0.14,0.36,0.42,0.74,0.58,0.62,12,2,2,2,24,24,24,None
+Lepisiota,un03,33,Pinned,TBISH-371,6a-Jan-2009,0.54,0.5,0.62,0.1,0.14,0.32,0.3,0.18,0.34,0.32,0.58,NA,NA,12,2,2,2,24,24,24,None
+Lepisiota,un03,33,Pinned,TBISH-372,Drakensberg-Unknown-2005,0.64,0.44,0.68,0.12,0.16,0.36,NA,0.18,0.38,0.46,0.82,0.68,0.64,7,2,2,2,1,1,1,None
+Lepisiota,un03,33,Pinned,TBISH-373,Drakensberg-Unknown-2005,0.60,0.56,0.68,0.12,0.18,0.38,0.28,0.18,0.4,0.36,0.78,0.7,0.68,11,2,2,2,24,24,24,None
+Lepisiota,12,29,Pinned,TBISH-374,4d-Jan-2009,0.58,0.46,0.58,0.1,0.14,0.32,0.24,0.12,0.34,0.34,0.8,0.68,0.56,0,2,2,2,22,20,22,None
+Lepisiota,12,29,Pinned,TBISH-375,7d-Jan-2006,0.56,0.44,0.56,0.12,0.14,0.3,0.22,0.12,0.3,0.32,0.68,0.56,0.54,0,2,2,2,22,20,22,None
+Lepisiota,12,29,Pinned,TBISH-376,7b-Jan-2006,0.60,0.48,0.56,0.12,0.16,0.32,0.28,0.14,0.32,0.32,0.8,0.6,0.46,0,2,2,2,22,20,20,None
+Lepisiota,12,29,Pinned,TBISH-377,7b-Jan-2010,0.56,0.44,0.54,0.08,0.14,0.34,0.28,0.14,0.3,0.28,0.72,0.56,0.6,0,2,2,2,22,22,20,None
+Lepisiota,12,29,Pinned,TBISH-378,7b-Jan-2009,0.58,0.48,0.56,0.1,0.18,0.34,0.26,0.12,0.34,0.36,0.76,0.58,0.52,0,2,2,2,22,20,22,None
+Lepisiota,12,29,Wet,TBISH-379,7b-Jan-2010,0.58,0.48,0.46,0.1,0.14,0.34,0.24,0.16,0.36,0.36,0.76,0.6,0.44,0,2,2,2,22,20,22,None
+Lepisiota,13,30,Pinned,TBISH-380,7b-Jan-2009,0.78,0.72,0.76,0.14,0.2,0.48,0.36,0.16,0.48,0.48,0.96,0.78,0.76,48,2,2,2,1,1,1,None
+Lepisiota,13,30,Wet,TBISH-381,7b-Jan-2010,0.70,0.64,0.7,0.16,0.2,0.4,0.3,0.14,0.44,0.4,0.88,0.7,0.68,57,2,2,2,1,1,1,None
+Lepisiota,13,30,Wet,TBISH-382,7c-Jan-2009,0.68,0.62,0.7,0.14,0.18,0.44,0.26,0.16,0.46,0.38,0.86,0.66,0.68,23,2,2,2,1,1,1,None
+Lepisiota,13,30,Wet,TBISH-383,7c-Jan-2009,0.62,0.7,0.68,0.16,0.2,0.48,0.34,0.18,0.48,0.4,0.98,0.74,0.68,83,2,2,2,1,1,1,None
+Anoplolepis,custodiens,3,Wet,TBISH-384,8c-Jan-2012,1.04,0.88,1.26,0.18,0.24,0.6,0.48,0.24,0.6,0.54,1.52,1.56,1.54,6,0,0,2,20,20,23,None
+Anoplolepis,custodiens,3,Wet,TBISH-385,8c-Jan-2012,1.12,0.94,1.4,0.2,0.26,0.68,0.56,0.32,0.66,0.62,1.52,1.72,1.58,12,0,0,2,20,20,20,None
+Anoplolepis,custodiens,3,Wet,TBISH-386,8c-Jan-2012,1.02,0.88,1.2,0.18,0.22,0.62,0.58,0.32,0.64,0.64,1.54,1.52,1.54,6,0,0,2,20,20,23,None
+Anoplolepis,custodiens,3,Wet,TBISH-387,8c-Jan-2012,1.14,0.88,1.4,0.2,0.26,0.66,0.58,0.36,0.7,0.66,1.56,1.74,1.7,8,0,0,2,20,20,23,None
+Anoplolepis,custodiens,3,Pinned,TBISH-388,7a-Jan-2006,0.98,0.86,1.2,0.18,0.24,0.62,0.42,0.28,0.62,0.42,1.38,1.34,1.28,8,0,0,2,20,20,23,None
+Anoplolepis,custodiens,3,Pinned,TBISH-389,7a-Jan-2006,0.96,0.8,1.18,0.18,0.22,0.58,0.48,0.28,0.54,0.52,1.28,1.36,1.28,9,0,0,2,20,20,23,None
+Lepisiota,11,28,Pinned,TBISH-390,5b-Jan-2007,0.70,0.66,0.98,0.12,0.22,0.46,0.34,0.2,0.48,0.44,1.02,1.02,0.86,0,2,2,2,24,22,24,None
+Lepisiota,12,29,Wet,TBISH-391,5b-Jan-2009,0.58,0.48,0.56,0.12,0.14,0.34,0.18,0.12,0.32,0.3,0.72,0.56,0.56,0,2,2,2,22,21,22,Originally labelled as Lepisiota 11.
+Plagiolepis,1,60,Pinned,TBISH-392,4c-Sep-2009,0.38,0.32,0.36,0.06,0.08,0.26,0.16,0.12,0.24,0.18,0.44,0.34,0.32,0,0,0,1,19,19,19,None
+Plagiolepis,1,60,Pinned,TBISH-393,3c-Sep-2009,0.44,0.36,0.38,0.06,0.08,0.26,0.14,0.1,0.2,0.18,0.38,0.34,0.32,0,0,0,1,22,17,22,Completely different colour to TBISH-392
+Plagiolepis,1,60,Pinned,TBISH-394,3a-Sep-2009,0.40,0.34,0.36,0.08,0.1,0.24,0.12,0.08,0.24,0.26,0.44,0.34,0.28,0,0,0,1,22,20,22,None
+Plagiolepis,1,60,Pinned,TBISH-395,5b-Jan-2009,0.44,0.36,0.34,0.08,0.1,0.24,0.18,0.12,0.24,0.16,0.44,0.38,0.28,0,0,0,1,21,21,21,None
+Plagiolepis,1,60,Pinned,TBISH-396,3a-Jan-2010,0.38,0.34,0.34,0.06,0.08,0.26,0.14,0.1,0.22,0.16,0.42,0.28,0.28,0,0,0,1,22,17,17,None
+Plagiolepis,1,60,Wet,TBISH-397,5b-Jan-2009,0.44,0.38,0.34,0.06,0.1,0.28,0.18,0.08,0.22,0.18,0.42,0.3,0.32,0,0,0,1,20,20,20,None
+Lepisiota,1,23,Pinned,TBISH-398,3b-Sep-2009,0.62,0.54,0.7,0.12,0.18,0.36,0.3,0.2,0.4,0.36,0.76,0.68,0.64,18,2,2,2,1,1,1,None
+Lepisiota,1,23,Pinned,TBISH-399,6c-Jan-2009,0.60,0.52,0.68,0.12,0.16,0.34,NA,0.16,0.38,0.32,0.78,0.64,0.58,10,2,2,2,1,1,1,None
+Lepisiota,1,23,Pinned,TBISH-400,3a-Jan-2006,0.64,0.6,0.68,0.1,0.18,0.42,0.3,0.2,0.4,0.38,0.78,0.72,0.7,7,2,2,2,1,1,1,None
+Lepisiota,1,23,Pinned,TBISH-401,3a-Jan-2010,0.66,0.58,0.66,0.12,0.18,0.38,0.3,0.18,0.4,0.38,0.78,0.68,0.64,15,2,2,2,1,1,1,None
+Lepisiota,1,23,Pinned,TBISH-402,3a-Sep-2009,0.64,0.58,0.66,0.14,0.18,0.38,0.3,0.18,0.42,0.38,0.74,0.64,0.62,17,2,2,2,1,1,1,None
+Lepisiota,1,23,Pinned,TBISH-403,Drakensberg-Unknown-2005,0.60,0.56,0.64,0.12,0.18,0.38,NA,0.12,0.36,0.38,0.78,0.64,0.64,3,2,2,2,1,1,1,None
+Lepisiota,14,31,Pinned,TBISH-404,3b-Sep-2009,0.62,0.56,0.62,0.12,0.18,0.36,0.26,0.16,0.36,0.36,0.7,0.64,0.58,0,2,2,2,1,1,1,None
+Lepisiota,3,24,Pinned,TBISH-405,5d-Jan-2009,0.60,0.54,0.64,0.12,0.18,0.4,0.3,0.18,0.38,0.4,0.72,0.68,0.64,2,2,0,2,1,1,1,None
+Lepisiota,3,24,Pinned,TBISH-406,3b-Jan-2006,0.60,0.54,0.62,0.12,0.18,0.32,0.28,0.18,0.4,0.4,0.74,0.6,0.58,0,2,0,2,1,1,1,None
+Lepisiota,3,24,Pinned,TBISH-407,3c-Jan-2006,0.42,0.38,0.42,0.1,0.16,0.26,NA,0.12,0.38,0.36,0.76,0.58,0.56,0,2,0,2,22,22,22,"Labelled as Lepisiota 3, I don't think it is. "
+Lepisiota,3,24,Pinned,TBISH-408,3c-Jan-2006,0.62,0.56,0.64,0.12,0.18,0.4,0.3,0.16,0.38,0.4,0.82,0.62,0.6,0,2,0,2,22,22,22,"Labelled as Lepisiota 3, I don't think it is. "
+Lepisiota,3,24,Pinned,TBISH-409,Drakensberg-Unknown-2005,0.62,0.54,0.68,0.12,0.18,0.38,0.28,0.16,0.38,0.4,0.78,0.66,0.64,0,2,0,2,22,22,22,None
+Lepisiota,4,25,Pinned,TBISH-410,7c-Jan-2006,0.64,0.6,0.64,0.12,0.18,0.4,0.28,0.18,0.42,0.4,0.86,0.62,0.6,2,2,2,2,1,1,1,None
+Lepisiota,1,23,Pinned,TBISH-411,5c-Jan-2009,0.64,0.56,0.68,0.14,0.18,0.4,0.3,0.2,0.4,0.44,0.74,0.7,0.66,15,2,0,2,1,1,1,None
+Lepisiota,1,23,Pinned,TBISH-412,Drakensberg-Sep-2009,0.58,0.54,0.62,0.12,0.18,0.34,0.28,0.18,0.38,0.44,0.7,0.6,0.6,16,2,0,2,1,1,1,None
+Lepisiota,1,23,Pinned,TBISH-413,3a-Sep-2009,0.74,0.64,0.74,0.12,0.18,0.46,0.32,0.18,0.46,0.48,0.84,0.74,0.7,11,2,0,2,1,1,1,None
+Lepisiota,1,23,Pinned,TBISH-414,3a-Sep-2009,0.62,0.54,0.64,0.12,0.16,0.36,0.36,0.14,0.38,0.46,0.72,0.6,0.44,6,2,0,2,1,1,22,None
+Lepisiota,1,23,Pinned,TBISH-415,3a-Jan-2010,0.60,0.54,0.64,0.12,0.16,0.38,NA,0.18,0.36,0.4,0.76,0.62,0.6,18,2,0,2,1,1,1,None
+Lepisiota,1,23,Pinned,TBISH-416,4b-Jan-2006,0.58,0.48,0.62,0.1,0.16,0.34,0.26,0.16,0.38,0.4,0.66,0.6,0.6,14,2,0,2,1,1,1,None
+Lepisiota,10,27,Pinned,TBISH-417,3a-Jan-2008,0.62,0.6,0.64,0.1,0.18,0.42,0.28,0.18,0.4,0.36,0.76,0.7,0.64,25,2,2,2,1,1,1,None
+Lepisiota,10,27,Pinned,TBISH-418,4d-Jan-2009,0.56,0.48,0.6,0.12,0.16,0.32,0.28,0.16,0.34,0.28,0.66,0.56,0.54,19,2,0,2,21,21,21,Not sure if this is the same as TBISH-417
+Lepisiota,10,27,Pinned,TBISH-419,4d-Jan-2009,0.60,0.54,0.62,0.1,0.16,0.34,0.32,0.14,0.38,0.36,0.78,0.64,0.6,11,2,2,2,1,1,21,Questionable.
+Lepisiota,10,27,Pinned,TBISH-420,3c-Jan-2006,0.66,0.58,0.68,0.14,0.16,0.4,0.32,0.16,0.4,0.4,0.74,0.66,0.66,11,2,2,2,24,24,24,None
+Lepisiota,10,27,Pinned,TBISH-421,7b-Jan2006,0.58,0.5,0.64,0.12,0.18,0.32,0.26,0.18,0.34,0.3,0.74,0.64,0.58,17,2,2,2,24,24,24,None
+Acropyga,arnoldi,1,Wet,TBISH-422,6b-Jan-2011,0.64,0.52,0.44,0.02,0.02,0.46,0.32,0.14,0.38,0.26,0.56,0.46,0.48,20,0,0,1,16,16,16,None
+Discothyrea,1,96,Wet,TBISH-423,8a-Jan-2012,0.74,0.62,0.52,0.06,0.06,0.62,0.32,0.08,0.5,0.54,0.6,0.5,0.44,0,0,0,2,10,10,10,None
+Anoplolepis,2,2,Pinned,TBISH-424,8a-Jan-2007,0.70,0.74,0.58,0.14,0.2,0.46,0.38,0.16,0.46,0.34,0.84,0.7,0.68,0,0,0,2,17,20,20,None
+Plagiolepis,un01,61,Pinned,TBISH-425,4d-Jan-2007,0.38,0.34,0.26,0.04,0.06,0.24,0.16,0.06,0.24,0.16,0.36,0.22,0.22,0,0,0,1,15,15,15,None
+Plagiolepis,un01,61,Pinned,TBISH-426,5a-Jan-2007,0.40,0.34,0.26,0.04,0.06,0.22,0.18,0.08,0.24,0.16,0.32,0.24,0.2,0,0,0,1,15,15,15,None
+Plagiolepis,un01,61,Pinned,TBISH-427,5a-Jan-2007,0.40,0.36,0.28,0.04,0.06,0.26,0.22,0.08,0.24,0.14,0.38,0.24,0.22,0,0,0,1,15,15,15,None
+Plagiolepis,un01,61,Wet,TBISH-428,6b-Jan-2010,0.34,0.34,0.24,0.04,0.04,0.24,0.18,0.06,0.22,0.12,0.28,0.22,0.2,0,0,0,1,16,16,16,None
+Plagiolepis,un01,61,Wet,TBISH-429,6b-Jan-2010,0.40,0.36,0.26,0.04,0.04,0.24,0.18,0.08,0.24,0.16,0.3,0.28,0.24,0,0,0,1,16,16,16,None
+Plagiolepis,un01,61,Wet,TBISH-430,6b-Jan-2010,0.36,0.3,0.28,0.04,0.04,0.22,0.14,0.06,0.2,0.12,0.28,0.22,0.2,0,0,0,1,16,16,16,None
+Pachycondyla,caffraria,49,Pinned,TBISH-431,5a-Jan-2010,1.97,1.656,1.44,0.24,0.3,1.44,0.94,0.408,1.28,0.84,2.46,1.86,1.46,34,0,0,2,1,1,1,None
+Pachycondyla,caffraria,49,Pinned,TBISH-432,5c-Jan-2010,1.99,1.656,1.488,0.21,0.3,1.44,0.92,0.408,1.24,0.82,2.67,1.92,1.46,26,0,0,2,1,1,1,None
+Pachycondyla,caffraria,49,Pinned,TBISH-433,5a-Sep-2006,1.78,1.464,1.344,0.18,0.24,1.248,0.82,0.312,1.1,0.64,2.43,1.72,1.32,41,0,0,2,1,1,1,None
+Pachycondyla,caffraria,49,Pinned,TBISH-434,5a-Sep-2006,1.85,1.488,1.32,0.21,0.27,1.32,1.1,0.336,1.16,0.7,2.43,1.74,1.28,49,0,0,2,1,1,1,None
+Pachycondyla,caffraria,49,Wet,TBISH-435,3a-Sep-2009,1.37,1.224,0.912,0.168,0.192,1.104,0.864,0.24,0.86,0.6,2.16,1.1,0.7,20,0,0,2,22,8,20,Don't think this is caffraria.
+Pachycondyla,caffraria,49,Wet,TBISH-436,5b-Jan-2009,1.82,1.488,1.368,0.192,0.264,1.272,0.912,0.288,1.08,0.68,2.184,1.7,1.28,22,0,0,2,1,1,1,None
+Pachycondyla,peringueyi,50,Pinned,TBISH-437,2a-Jan-2012,2.33,2.04,2.16,0.307692308,0.384615385,1.68,1.464,0.432,1.4,1.36,3.230769231,2.61,2.16,40,0,0,1,1,1,1,"Very fine, fuzzy yellow hairs. "
+Pachycondyla,peringueyi,50,Pinned,TBISH-438,2b-Jan-2010,2.18,2.04,2.112,0.307692308,0.384615385,1.608,1.512,0.528,1.4,1.42,3.153846154,2.61,2.22,60,0,0,1,1,1,1,"Very fine, fuzzy yellow hairs. "
+Pachycondyla,peringueyi,50,Pinned,TBISH-439,Drakensberg-Unknown-Unknown,2.18,2.016,2.112,0.307692308,0.384615385,1.632,1.512,0.48,1.38,1.3,3.153846154,2.67,2.13,30,0,0,1,1,1,1,"Very fine, fuzzy yellow hairs. "
+Pachycondyla,peringueyi,50,Wet,TBISH-440,2b-Jan-2010,2.26,2.16,2.184,0.307692308,0.384615385,1.656,1.56,0.528,1.38,1.28,3.038461538,2.846153846,2.192307692,40,0,0,1,1,1,1,"Very fine, fuzzy yellow hairs. "
+Pachycondyla,peringueyi,50,Wet,TBISH-441,2b-Jan-2010,2.26,1.992,2.136,0.307692308,0.346153846,1.584,1.44,0.456,1.42,1.44,3.153846154,2.538461538,2.153846154,15,0,0,1,1,1,1,"Very fine, fuzzy yellow hairs. "
+Pachycondyla,peringueyi,50,Wet,TBISH-442,2b-Jan-2010,2.21,1.944,2.136,0.346153846,0.423076923,1.56,1.488,0.504,1.38,1.3,3.346153846,2.653846154,2.230769231,50,0,0,1,1,1,1,"Very fine, fuzzy yellow hairs. "
+Pachycondyla,pumicosa,51,Pinned,TBISH-443,3a-Jan-2006,2.37,2.01,1.65,0.28,0.32,1.71,1.32,0.6,1.5,1.4,3.153846154,1.846153846,1.461538462,34,0,0,3,1,1,1,None
+Pachycondyla,pumicosa,51,Wet,TBISH-444,3d-Sep-2009,1.96,1.923076923,1.576923077,0.28,0.3,1.576923077,1.269230769,0.538461538,1.54,1.44,3.115384615,2,1.615384615,82,0,0,3,1,1,1,None
+Pachycondyla,pumicosa,51,Wet,TBISH-445,3d-Sep-2009,2.31,1.923076923,1.576923077,0.28,0.32,1.692307692,1.230769231,0.538461538,1.5,1.461538462,3.076923077,1.923076923,1.615384615,86,0,0,3,1,1,1,None
+Pachycondyla,pumicosa,51,Wet,TBISH-446,3a-Sep-2009,2.27,1.923076923,1.653846154,0.269230769,0.346153846,1.692307692,1.307692308,0.576923077,1.48,1.6,3.153846154,2,1.923076923,36,0,0,3,1,1,1,None
+Pachycondyla,pumicosa,51,Wet,TBISH-447,3d-Jan-2010,2.38,1.961538462,1.692307692,0.307692308,0.346153846,1.576923077,1.346153846,0.423076923,1.46,1.56,3.192307692,1.961538462,1.807692308,43,0,0,3,1,1,1,None
+Pachycondyla,pumicosa,51,Wet,TBISH-448,3d-Jan-2010,2.35,1.884615385,1.615384615,0.230769231,0.346153846,1.615384615,1.192307692,0.423076923,1.42,1.5,3.076923077,1.961538462,1.576923077,6,0,0,3,1,1,1,None
+Pachycondyla,wroughtonii,52,Pinned,TBISH-449,5c-Sep-2006,1.34,1.22,0.94,0.12,0.16,1.1,0.76,0.26,0.88,0.78,1.84,1.04,0.9,14,0,0,2,21,21,21,None
+Pachycondyla,wroughtonii,52,Pinned,TBISH-450,Drakensberg-Unknown-Unknown,1.26,1.2,0.9,0.14,0.18,1.06,0.66,0.24,0.84,0.76,1.78,1.02,0.86,16,0,0,2,21,21,21,None
+Pachycondyla,wroughtonii,52,Pinned,TBISH-451,Drakensberg-Unknown-Unknown,1.28,1.2,0.84,0.14,0.18,1.04,0.74,0.26,0.86,0.82,1.74,1.02,0.84,25,0,0,2,21,21,21,None
+Pachycondyla,wroughtonii,52,Pinned,TBISH-452,6d-Jan-2010,1.12,1.06,0.8,0.1,0.16,0.94,0.6,0.18,0.78,0.74,1.56,0.8,0.72,15,0,0,2,21,21,21,None
+Pachycondyla,wroughtonii,52,Pinned,TBISH-453,5c-Jan-2010,1.22,1.1,0.84,0.12,0.18,1,0.64,0.26,0.84,0.7,1.7,0.86,0.8,35,0,0,2,21,21,21,None
+Pachycondyla,wroughtonii,52,Wet,TBISH-454,5c-Jan-2010,1.22,1.12,0.84,0.14,0.16,0.98,0.74,0.26,0.84,0.8,1.72,0.9,0.78,16,0,0,2,21,21,21,None
+Plagiolepis,2,97,Pinned,TBISH-455,5c-Sep-2010,0.40,0.34,0.28,0.06,0.08,0.24,0.14,0.1,0.22,0.24,0.4,0.26,0.22,0,0,0,1,24,24,24,None
+Plagiolepis,2,97,Wet,TBISH-456,5c-Sep-2010,0.42,0.32,0.28,0.06,0.08,0.26,0.12,0.12,0.2,0.16,0.38,0.28,0.26,0,0,0,1,22,22,22,None
+Tetramorium,laevithorax,93,Pinned,TBISH-457,7c-Jan-2008,0.70,0.66,0.6,0.12,0.18,0.52,0.4,0.18,0.4,0.44,0.8,0.66,0.58,16,2,0,2,21,15,21,None
+Tetramorium,40,85,Pinned,TBISH-458,8b-Jan-2010,0.78,0.74,0.52,0.14,0.2,0.64,0.42,0.16,0.52,0.7,0.96,0.62,0.54,25,4,0,2,16,16,16,None
+Tetramorium,44,98,Wet,TBISH-459,8d-Jan-2009,0.82,0.86,0.62,0.14,0.2,0.7,0.5,0.26,0.56,0.3,0.94,0.76,0.6,29,2,0,3,22,22,22,None
+Tetramorium,44,98,Wet,TBISH-460,8d-Jan-2009,0.78,0.64,0.58,0.12,0.18,0.62,0.46,0.22,0.52,0.38,0.9,0.68,0.58,20,2,0,3,22,22,22,None
+Tetramorium,44,98,Wet,TBISH-461,8a-Jan-2010,0.94,1.1,0.72,0.12,0.2,0.7,0.5,0.24,0.58,0.4,1.08,0.84,0.66,22,2,0,3,22,22,22,None
+Tetramorium,45,99,Pinned,TBISH-462,1a-Sep-2009,0.68,0.72,0.58,0.1,0.16,0.64,0.42,0.24,0.54,0.48,1,0.7,0.6,11,4,0,2,22,22,24,None
+Tetramorium,45,99,Pinned,TBISH-463,1a-Sep-2010,0.88,0.82,0.58,0.12,0.16,0.68,0.46,0.24,0.54,0.56,0.9,0.72,0.54,18,4,0,2,22,22,24,None
+Tetramorium,45,99,Wet,TBISH-464,1a-Sep-2010,0.86,0.84,0.62,0.14,0.18,0.7,0.44,0.26,0.56,0.52,0.88,0.74,0.6,20,4,0,2,22,22,24,None
+Tetramorium,45,99,Wet,TBISH-465,1a-Sep-2010,0.80,0.8,0.58,0.1,0.16,0.68,0.46,0.18,0.54,0.48,0.78,0.68,0.56,18,4,0,2,22,22,24,None
+Tetramorium,45,99,Wet,TBISH-466,1a-Sep-2010,0.82,0.84,0.56,0.14,0.18,0.7,0.4,0.18,0.54,0.6,0.84,0.74,0.52,15,4,0,2,22,22,24,None
+Tetramorium,45,99,Wet,TBISH-467,1a-Sep-2010,0.84,0.86,0.64,0.12,0.18,0.78,0.46,0.18,0.54,0.56,0.86,0.7,0.5,19,4,0,2,22,22,24,None
+Tetramorium,18,79,Pinned,TBISH-468,4c-Jan-2006,0.66,0.64,0.44,0.12,0.16,0.52,0.36,0.18,0.42,0.46,0.76,0.56,0.4,18,4,0,2,17,16,17,None
+Tetramorium,18,79,Pinned,TBISH-469,4c-Jan-2006,0.70,0.64,0.48,0.12,0.18,0.52,0.36,0.16,0.44,0.44,0.74,0.58,0.44,21,4,0,2,17,16,NA,None
+Tetramorium,18,79,Pinned,TBISH-470,7a-Jan-2006,0.64,0.64,0.42,0.1,0.14,0.52,0.38,0.2,0.42,0.5,0.72,0.48,0.4,18,4,0,2,17,17,16,None
+Monomorium,7,42,Pinned,TBISH-471,2a-Sep-2006,0.86,0.84,NA,0.12,0.18,0.74,0.42,0.24,0.52,0.76,1.02,0.84,0.7,12,0,0,1,10,10,NA,None
+Monomorium,7,42,Pinned,TBISH-472,2a-Sep-2006,0.82,0.76,0.74,0.1,0.12,0.68,0.4,0.2,0.46,0.6,0.94,0.8,0.62,11,0,0,1,10,10,NA,None
+Monomorium,7,42,Pinned,TBISH-473,2a-Sep-2006,0.86,0.76,0.72,0.1,0.14,0.66,0.42,0.24,0.46,0.74,1.02,0.74,0.6,11,0,0,1,10,10,NA,None
+Tetramorium,28,82,Pinned,TBISH-474,7c-Jan-2010,0.62,0.6,0.4,0.1,0.14,0.5,0.32,0.16,0.42,0.44,0.68,0.44,0.38,16,4,0,2,21,17,17,None
+Tetramorium,28,82,Pinned,TBISH-475,8d-Jan-2012,0.58,0.56,0.34,0.1,0.14,0.46,0.3,0.16,0.4,0.5,0.64,0.4,0.3,16,4,0,2,21,17,17,None
+Paratrechina,1,53,Pinned,TBISH-476,7c-Sep-2006,0.66,0.56,0.7,0.08,0.16,0.36,0.3,0.12,0.4,0.26,0.76,0.68,0.62,11,0,0,1,21,20,22,None
+Paratrechina,1,53,Pinned,TBISH-477,Drakensberg-Unknown-2005,0.66,0.56,0.7,0.1,0.18,0.36,0.36,0.2,0.36,0.28,0.76,0.7,0.6,16,0,0,1,21,20,22,None
+Paratrechina,1,53,Pinned,TBISH-478,7b-Jan-2010,0.68,0.58,0.76,0.12,0.16,0.36,0.34,0.16,0.42,0.34,0.8,0.76,0.64,9,0,0,1,21,20,22,None
+Paratrechina,1,53,Pinned,TBISH-479,8c-Sep-2006,0.72,0.56,0.76,0.1,0.14,0.36,0.34,0.14,0.44,0.5,0.82,0.76,0.48,10,0,0,1,21,20,22,None
+Paratrechina,1,53,Pinned,TBISH-480,8c-Sep-2006,0.56,0.54,0.62,0.1,0.16,0.36,0.32,0.18,0.4,0.26,0.76,0.64,0.58,7,0,0,1,21,20,22,None
+Paratrechina,1,53,Pinned,TBISH-481,8c-Sep-2006,0.68,0.58,0.7,0.1,0.16,0.36,0.24,0.16,0.42,0.3,0.8,0.74,0.64,10,0,0,1,21,20,22,None
+Paratrechina,1,53,Pinned,TBISH-482,Drakensberg-Unknown-2005,0.60,0.46,0.64,0.08,0.12,0.3,0.32,0.12,0.32,0.26,0.66,0.5,0.5,4,0,0,1,17,17,22,None
+Paratrechina,1,53,Pinned,TBISH-483,7a-Jan-2010,0.68,0.56,0.74,0.1,0.16,0.36,0.34,0.16,0.4,0.26,0.78,0.68,0.62,5,0,0,1,21,20,21,None
+Paratrechina,1,53,Pinned,TBISH-484,7a-Jan-2010,0.64,0.56,0.7,0.08,0.16,0.36,0.3,0.14,0.4,0.26,0.76,0.7,0.6,4,0,0,1,21,20,22,None
+Lepisiota,10,27,Wet,TBISH-485,4d-Jan-2009,0.60,0.6,0.64,0.14,0.18,0.42,0.26,0.16,0.4,0.36,0.78,0.66,0.62,0,2,2,1,1,1,1,None
+Tetramorium,32,84,Wet,TBISH-486,8c-Jan-2012,0.66,0.62,0.5,0.04,0.04,0.58,0.4,0.2,0.44,0.4,0.76,0.48,0.4,0,4,0,1,16,16,16,None
+Tetramorium,32,84,Wet,TBISH-487,8c-Jan-2012,0.70,0.62,0.44,0.04,0.06,0.6,0.38,0.18,0.44,0.42,0.7,0.44,0.32,0,4,0,1,16,16,16,None
+Tetramorium,28,82,Wet,TBISH-488,8d-Jan-2012,0.58,0.56,0.36,0.08,0.1,0.46,0.32,0.14,0.4,0.42,0.62,0.4,0.3,19,4,0,2,20,20,20,None
+Tetramorium,43,88,Wet,TBISH-489,7c-Jan-2010,0.90,0.88,0.64,0.14,0.18,0.76,0.5,0.22,0.6,0.56,0.88,0.76,0.68,31,4,0,2,22,22,24,None
+Tetramorium,43,88,Wet,TBISH-490,7c-Jan-2010,0.86,0.88,0.6,0.14,0.18,0.74,0.48,0.26,0.62,0.48,0.92,0.82,0.58,33,4,0,2,22,22,22,None
+Tetramorium,43,88,Wet,TBISH-491,7c-Jan-2010,0.96,0.96,0.7,0.14,0.18,0.84,0.52,0.26,0.66,0.7,1.08,0.88,0.68,38,4,0,2,22,22,22,None
+Solenopsis,1,67,Wet,TBISH-492,5c-Jan-2009,0.34,0.26,0.2,0,0,0,0.18,0.06,0.18,0.18,0.32,0.18,0.14,29,0,0,1,16,16,16,None
+Solenopsis,1,67,Wet,TBISH-493,5c-Jan-2009,0.34,0.3,0.18,0,0,0,0.16,0.06,0.18,0.16,0.32,0.18,0.14,15,0,0,1,16,16,16,None
+Solenopsis,1,67,Wet,TBISH-494,5c-Jan-2009,0.36,0.28,0.18,0,0,0,0.18,0.08,0.18,0.2,0.38,0.18,0.16,20,0,0,1,16,16,16,None
+Solenopsis,1,67,Wet,TBISH-495,5c-Jan-2009,0.36,0.28,0.2,0,0,0,0.14,0.06,0.18,0.24,0.34,0.18,0.18,20,0,0,1,16,16,16,None
+Solenopsis,1,67,Wet,TBISH-496,5c-Jan-2009,0.40,0.34,0.26,0.02,0.02,0.32,0.22,0.08,0.2,0.3,0.4,0.2,0.18,15,0,0,1,16,16,16,None
+Solenopsis,1,67,Wet,TBISH-497,5c-Jan-2009,0.30,0.24,0.14,0,0,0,0.14,0.06,0.18,0.14,0.32,0.18,0.14,18,0,0,1,16,16,16,None
+Plectroctena,mandibularis,64,Pinned,TBISH-498,Drakensberg-Unknown-2005,2.76,2.58,1.95,0.26,0.36,2.1,2.25,0.3,1.72,1.7,3.615384615,2.49,1.92,0,0,0,2,1,1,1,None
+Camponotus,vestitus,12,Pinned,TBISH-499,8a-Sep-2012,1.42,1.04,1.6,0.26,0.34,0.72,0.54,0.42,0.84,0.8,2.16,1.94,1.94,4,0,0,1,20,20,24,None
+Tetramorium,32,84,Wet,TBISH-500,8c-Jan-2009,0.70,0.64,0.5,0.04,0.06,0.62,0.38,0.16,0.48,0.4,0.82,0.52,0.4,10,4,0,2,15,15,15,None
+Tetramorium,47,101,Wet,TBISH-501,7c-Jan-2010,0.68,0.64,0.42,0.06,0.06,0.62,0.36,0.2,0.48,0.34,0.74,0.48,0.38,65,4,0,2,17,16,17,None
+Tetramorium,47,101,Wet,TBISH-502,7c-Jan-2010,0.70,0.64,0.4,0.04,0.06,0.62,0.4,0.16,0.46,0.34,0.72,0.48,0.42,70,4,0,2,17,16,17,None
+Technomyrmex,un01,73,Wet,TBISH-503,6b-Jan-2010,0.60,0.58,0.56,0.14,0.16,0.4,0.3,0.14,0.36,0.38,0.72,0.54,0.44,0,0,0,1,8,8,24,None
+Aenictus,1,102,Wet,TBISH-504,8b-Sep-2009,0.54,0.48,0.3,0,0,0,0.26,0.04,0.3,0,0.74,0.42,0.4,30,0,0,2,15,15,16,None
+Aenictus,1,102,Wet,TBISH-505,8b-Sep-2009,0.50,0.4,0.22,0,0,0,0.26,0.04,0.26,0,0.66,0.32,0.32,29,0,0,2,16,16,6,None
+Aenictus,1,102,Wet,TBISH-506,8b-Sep-2009,0.50,0.4,0.24,0,0,0,0.24,0.04,0.26,0,0.7,0.3,0.36,31,0,0,2,16,16,6,None
+Aenictus,1,102,Wet,TBISH-507,8b-Sep-2009,0.50,0.44,0.26,0,0,0,0.24,0.02,0.28,0,0.68,0.28,0.24,23,0,0,2,16,16,6,None
+Aenictus,1,102,Wet,TBISH-508,8b-Sep-2009,0.54,0.48,0.26,0,0,0,0.24,0.02,0.32,0,0.7,0.42,0.44,41,0,0,2,15,15,16,None
