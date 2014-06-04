@@ -1,0 +1,5 @@
+load("Comm.RData")
+load("Traits.RData")
+require(betapart)
+fun.beta.obs.rep <- functional.beta.pair(x = condor.comm, traits = as.matrix(condor.traits))
+save(fun.beta.obs.rep, file = "fun_beta_obs_rep.RData")
