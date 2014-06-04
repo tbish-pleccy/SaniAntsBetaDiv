@@ -1,0 +1,7 @@
+R_script = fun_beta_obs_rep.R
+indexed_input_files = Comm.RData,Traits.RData
+indexed_output_files = fun_beta_obs_rep.RData
+indexed_stdout = fun_beta_obs_rep.out
+indexed_stderr = fun_beta_obs_rep.err
+indexed_log = fun_beta_obs_rep.log
+total_jobs = 14
